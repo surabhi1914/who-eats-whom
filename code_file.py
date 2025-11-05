@@ -20,7 +20,7 @@ gds = GraphDataScience(
 
 
 print("Connected to Neo4j GDS server version:", gds.version())
-print("\nAvailable GDS algorithms (first few rows):")
+print("Available GDS algorithms (first few rows):")
 print(gds.list().head())
 
 # gds.close()
@@ -169,3 +169,27 @@ LIMIT 10
 detailed_df = gds.run_cypher(detailed_metrics_query)
 print("\nTop 10 species with details:")
 print(detailed_df)
+
+
+#Finding long food chains using APOC path expansion
+long_chain = """
+MATCH (s:Taxa)
+CALL apoc.path.expandConfig(s, {
+  relationshipFilter: '<eaten_by',
+  minLevel: 4,
+  maxLevel: 50,
+  uniqueness: 'NODE_GLOBAL',
+  bfs: false,
+  limit: 100000
+}) YIELD path
+WITH path, length(path) AS len
+RETURN apoc.text.join([n IN nodes(path) | n.scientific_name], ' -> ') AS chain, len
+ORDER BY len DESC
+LIMIT 50;
+
+"""
+
+
+long_chain_df = gds.run_cypher(long_chain)
+print("\nTop 10 longest food chains found:")
+print(long_chain_df)
