@@ -1,0 +1,51 @@
+chain,len
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Justicia flava,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Maerua rosmarinoides,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Asteraceae,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Mikania natalensis,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,5
+Eccopsis incultana -> Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,5
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Pseudacris regilla,5
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,4
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,4
+Melanerpes lewis -> Bombus griseocollis -> Asclepias speciosa -> Papilio rutulus -> Iris missouriensis,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Anchusa officinalis -> Bombus mixtus,4
+Oiceoptoma noveboracense -> Vulpes vulpes -> Sciurus carolinensis -> Felis catus -> Clethrionomys glareolus,4
+Oiceoptoma noveboracense -> Vulpes vulpes -> Sciurus carolinensis -> Felis catus -> Leiolepis belliana,4
+Oiceoptoma noveboracense -> Vulpes vulpes -> Sciurus carolinensis -> Felis catus -> Leptopelis natalensis,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Arctiini,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Crassiclitellata,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Gastropoda,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Ilex vomitoria,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Lumbricidae,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Noctuidae,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Oligochaeta,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Prunus virginiana,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus cathartica,4
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Pseudacris regilla,4
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Celithemis fasciata,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Lepidoptera,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Oligoria maculata,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Pachydiplax longipennis,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Perithemis tenera,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Tipulomorpha,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Zygoptera,4
+Spinus tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Pseudacris regilla,4
+Spinus tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,4
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Pseudacris regilla,4
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Fraxinus angustifolia,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Morus alba,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Pyracantha,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,4
+Zodarion rubidum -> Tetramorium immigrans -> Bombus rufocinctus -> Anchusa officinalis -> Bombus mixtus,4
