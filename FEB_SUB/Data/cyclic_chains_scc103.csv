@@ -1,0 +1,7 @@
+scientific_names,len,sccId
+"['Egretta garzetta', 'Anguilla anguilla', 'Larus michahellis', 'Anguilla anguilla', 'Egretta garzetta']",4,103
+"['Larus michahellis', 'Anguilla anguilla', 'Egretta garzetta', 'Anguilla anguilla', 'Larus michahellis']",4,103
+"['Anguilla anguilla', 'Egretta garzetta', 'Anguilla anguilla']",2,103
+"['Anguilla anguilla', 'Larus michahellis', 'Anguilla anguilla']",2,103
+"['Egretta garzetta', 'Anguilla anguilla', 'Egretta garzetta']",2,103
+"['Larus michahellis', 'Anguilla anguilla', 'Larus michahellis']",2,103
