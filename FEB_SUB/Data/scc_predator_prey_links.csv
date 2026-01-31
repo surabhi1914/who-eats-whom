@@ -1,0 +1,22 @@
+scc,predator_scientific,predator_common,predator_kingdom,pred_relationship_url,prey_scientific,prey_common,prey_kingdom,prey_relationship_url
+6,Acanthacris ruficornis,Garden Locust,Animalia,https://www.inaturalist.org/observations/66415128,Halcyon albiventris albiventris,Southern Brown-hooded Kingfisher,Animalia,https://www.inaturalist.org/observations/66415128
+6,Halcyon albiventris albiventris,Southern Brown-hooded Kingfisher,Animalia,https://www.inaturalist.org/observations/66450578,Acanthacris ruficornis,Garden Locust,Animalia,https://www.inaturalist.org/observations/66450578
+6,Halcyon albiventris albiventris,Southern Brown-hooded Kingfisher,Animalia,https://www.inaturalist.org/observations/66515966,Halcyon albiventris albiventris,Southern Brown-hooded Kingfisher,Animalia,https://www.inaturalist.org/observations/66515966
+139,Apiomerus californicus,California Bee Assassin,Animalia,https://www.inaturalist.org/observations/142450505,Apis mellifera,Western Honey Bee,Animalia,https://www.inaturalist.org/observations/142450505
+139,Apis mellifera,Western Honey Bee,Animalia,https://www.inaturalist.org/observations/142450506,Apiomerus californicus,California Bee Assassin,Animalia,https://www.inaturalist.org/observations/142450506
+139,Apis mellifera,Western Honey Bee,Animalia,https://www.inaturalist.org/observations/311005687,Apis mellifera,Western Honey Bee,Animalia,https://www.inaturalist.org/observations/311005687
+195,Asclepias speciosa,showy milkweed,Plantae,https://www.inaturalist.org/observations/228896748,Papilio rutulus,Western Tiger Swallowtail,Animalia,https://www.inaturalist.org/observations/228896748
+195,Papilio rutulus,Western Tiger Swallowtail,Animalia,https://www.inaturalist.org/observations/228896745,Asclepias speciosa,showy milkweed,Plantae,https://www.inaturalist.org/observations/228896745
+228,Azanus jesous,African Babul Blue,Animalia,https://www.inaturalist.org/observations/56967330,Dichrostachys cinerea,aroma,Plantae,https://www.inaturalist.org/observations/56967330
+228,Dichrostachys cinerea,aroma,Plantae,https://www.inaturalist.org/observations/56967333,Azanus jesous,African Babul Blue,Animalia,https://www.inaturalist.org/observations/56967333
+264,Bombus bifarius,Colorado Black-notched Bumble Bee,Animalia,https://www.inaturalist.org/observations/230630332,Solidago velutina,velvety goldenrod,Plantae,https://www.inaturalist.org/observations/230630332
+264,Solidago velutina,velvety goldenrod,Plantae,https://www.inaturalist.org/observations/230630338,Bombus bifarius,Colorado Black-notched Bumble Bee,Animalia,https://www.inaturalist.org/observations/230630338
+733,Geococcyx californianus,Greater Roadrunner,Animalia,https://www.inaturalist.org/observations/250649007,Sphinx chersis,Great Ash Sphinx,Animalia,https://www.inaturalist.org/observations/250649007
+733,Sphinx chersis,Great Ash Sphinx,Animalia,https://www.inaturalist.org/observations/250649005,Geococcyx californianus,Greater Roadrunner,Animalia,https://www.inaturalist.org/observations/250649005
+881,Julbernardia globiflora,Mnondo,Plantae,https://www.inaturalist.org/observations/149463617,Pilostyles aethiopica,,Plantae,https://www.inaturalist.org/observations/149463617
+881,Pilostyles aethiopica,,Plantae,https://www.inaturalist.org/observations/149463618,Julbernardia globiflora,Mnondo,Plantae,https://www.inaturalist.org/observations/149463618
+964,Leucophaeus atricilla,Laughing Gull,Animalia,https://www.inaturalist.org/observations/150509953,Trinectes maculatus,Hogchoker,Animalia,https://www.inaturalist.org/observations/150509953
+964,Trinectes maculatus,Hogchoker,Animalia,https://www.inaturalist.org/observations/150511090,Leucophaeus atricilla,Laughing Gull,Animalia,https://www.inaturalist.org/observations/150511090
+1135,Neoscona crucifera,Spotted Orbweaver,Animalia,https://www.inaturalist.org/observations/135098040,Tachycines asynamorus,Greenhouse Camel Cricket,Animalia,https://www.inaturalist.org/observations/135098040
+1135,Tachycines asynamorus,Greenhouse Camel Cricket,Animalia,https://www.inaturalist.org/observations/135098008,Neoscona crucifera,Spotted Orbweaver,Animalia,https://www.inaturalist.org/observations/135098008
+1135,Tachycines asynamorus,Greenhouse Camel Cricket,Animalia,https://www.inaturalist.org/observations/196790659,Tachycines asynamorus,Greenhouse Camel Cricket,Animalia,https://www.inaturalist.org/observations/196790659

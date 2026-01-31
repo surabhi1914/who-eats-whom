@@ -1,0 +1,2380 @@
+chain,len
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,6
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Justicia flava,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Mikania natalensis,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,5
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,5
+Melanerpes lewis -> Bombus griseocollis -> Asclepias speciosa -> Papilio rutulus -> Iris missouriensis,5
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Ilex vomitoria,5
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa,5
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Prunus virginiana,5
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus cathartica,5
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,5
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Celithemis fasciata,5
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Pachydiplax longipennis,5
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Perithemis tenera,5
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,5
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,5
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,5
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,5
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,5
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,5
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,5
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,5
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,5
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,5
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,5
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,5
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,5
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,5
+Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,4
+Telchinia serena -> Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,4
+Telchinia serena -> Chromolaena odorata -> Belenois creona severina -> Justicia flava,4
+Telchinia serena -> Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Dais cotinifolia,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Distephanus angulifolius,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis,4
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina -> Lippia javanica,4
+Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Celithemis fasciata,4
+Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Pachydiplax longipennis,4
+Vespa crabro -> Promachus hinei -> Erythemis simplicicollis -> Perithemis tenera,4
+Zodarion rubidum -> Tetramorium immigrans -> Vespula maculifrons -> Didelphis virginiana,4
+Zodarion rubidum -> Tetramorium immigrans -> Vespula maculifrons -> Neotibicen lyricen engelhardti,4
+Heteropoda venatoria -> Hemidactylus turcicus -> Erythemis simplicicollis -> Celithemis fasciata,4
+Heteropoda venatoria -> Hemidactylus turcicus -> Erythemis simplicicollis -> Pachydiplax longipennis,4
+Heteropoda venatoria -> Hemidactylus turcicus -> Erythemis simplicicollis -> Perithemis tenera,4
+Lanius ludovicianus -> Anolis sagrei -> Erythemis simplicicollis -> Celithemis fasciata,4
+Lanius ludovicianus -> Anolis sagrei -> Erythemis simplicicollis -> Pachydiplax longipennis,4
+Lanius ludovicianus -> Anolis sagrei -> Erythemis simplicicollis -> Perithemis tenera,4
+Lanius ludovicianus -> Anolis sagrei -> Hemidactylus mabouia -> Amata simplex,4
+Lanius ludovicianus -> Anolis sagrei -> Hemidactylus mabouia -> Gryllus bimaculatus,4
+Larus argentatus -> Gallinula chloropus -> Mesotriton alpestris -> Epinotia tedella,4
+Larus marinus -> Anguilla anguilla -> Egretta garzetta -> Aphanius fasciatus,4
+Larus marinus -> Anguilla anguilla -> Egretta garzetta -> Lampetra planeri,4
+Larus marinus -> Anguilla anguilla -> Larus michahellis -> Columba livia,4
+Larus marinus -> Anguilla anguilla -> Larus michahellis -> Streptopelia decaocto,4
+Larus michahellis -> Anguilla anguilla -> Egretta garzetta -> Aphanius fasciatus,4
+Larus michahellis -> Anguilla anguilla -> Egretta garzetta -> Lampetra planeri,4
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina,4
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Delta fenestrale,4
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena,4
+Lippia javanica -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,4
+Lippia javanica -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,4
+Lippia javanica -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,4
+Lon taxiles -> Asclepias speciosa -> Papilio rutulus -> Iris missouriensis,4
+Melanerpes lewis -> Bombus griseocollis -> Asclepias speciosa -> Papilio rutulus,4
+Myiarchus crinitus -> Promachus rufipes -> Vespula -> Nadata gibbosa,4
+Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,4
+Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Justicia flava,4
+Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,4
+Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Mikania natalensis,4
+Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,4
+Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,4
+Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,4
+Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Ageratina havanensis,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Anchusa officinalis,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Apiomerus californicus,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Asclepias fascicularis,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Asclepias tuberosa,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Baccharis pilularis,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Cakile maritima,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Cirsium arvense,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Cirsium horridulum,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Datura wrightii,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Eriogonum fasciculatum,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Ficus sur,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Hydrophyllum fendleri,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Jacobaea vulgaris,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Lonicera maackii,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Ochna pulchra,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Ozoroa obovata obovata,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Paspalum notatum,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Rubus odoratus,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Salvia mellifera,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Satureja montana,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Senecio deltoideus,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Taraxacum officinale,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Toxicodendron pubescens,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Trichostema lanceolatum,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Trifolium repens,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Turnera subulata,4
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera -> Viguiera dentata,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Acer saccharinum,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Juglans nigra,4
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius,4
+Phalacrocorax carbo -> Anguilla anguilla -> Egretta garzetta -> Aphanius fasciatus,4
+Phalacrocorax carbo -> Anguilla anguilla -> Egretta garzetta -> Lampetra planeri,4
+Phalacrocorax carbo -> Anguilla anguilla -> Larus michahellis -> Columba livia,4
+Phalacrocorax carbo -> Anguilla anguilla -> Larus michahellis -> Streptopelia decaocto,4
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Ilex vomitoria,4
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa,4
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Prunus virginiana,4
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus cathartica,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Erythemis simplicicollis,4
+Piranga olivacea -> Vespa crabro -> Promachus hinei -> Phyciodes tharos,4
+Quiscalus quiscula -> Passer domesticus -> Mantis religiosa -> Sympetrum fonscolombii,4
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Ilex vomitoria,4
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa,4
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Prunus virginiana,4
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus cathartica,4
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Ilex vomitoria,4
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa,4
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Prunus virginiana,4
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus cathartica,4
+Accipiter nisus -> Passer domesticus -> Mantis religiosa -> Sympetrum fonscolombii,4
+Afrogegenes -> Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,4
+Afrogegenes -> Chromolaena odorata -> Belenois creona severina -> Justicia flava,4
+Afrogegenes -> Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,4
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Dais cotinifolia,4
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Distephanus angulifolius,4
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis,4
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina -> Lippia javanica,4
+Afrogegenes -> Chromolaena odorata -> Telchinia serena -> Mikania natalensis,4
+Afrogegenes -> Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,4
+Afrogegenes -> Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,4
+Afrogegenes -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,4
+Afrogegenes -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,4
+Agelaius phoeniceus -> Anax junius -> Erythemis simplicicollis -> Celithemis fasciata,4
+Agelaius phoeniceus -> Anax junius -> Erythemis simplicicollis -> Pachydiplax longipennis,4
+Agelaius phoeniceus -> Anax junius -> Erythemis simplicicollis -> Perithemis tenera,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Ageratina havanensis,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Anchusa officinalis,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Apiomerus californicus,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Asclepias fascicularis,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Asclepias tuberosa,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Baccharis pilularis,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Cakile maritima,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Cirsium arvense,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Cirsium horridulum,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Datura wrightii,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Eriogonum fasciculatum,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Ficus sur,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Hydrophyllum fendleri,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Jacobaea vulgaris,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Lonicera maackii,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Ochna pulchra,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Ozoroa obovata obovata,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Paspalum notatum,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Rubus odoratus,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Salvia mellifera,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Satureja montana,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Senecio deltoideus,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Taraxacum officinale,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Toxicodendron pubescens,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Trichostema lanceolatum,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Trifolium repens,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Turnera subulata,4
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera -> Viguiera dentata,4
+Ardea cinerea -> Anguilla anguilla -> Egretta garzetta -> Aphanius fasciatus,4
+Ardea cinerea -> Anguilla anguilla -> Egretta garzetta -> Lampetra planeri,4
+Ardea cinerea -> Anguilla anguilla -> Larus michahellis -> Columba livia,4
+Ardea cinerea -> Anguilla anguilla -> Larus michahellis -> Streptopelia decaocto,4
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Dais cotinifolia,4
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Distephanus angulifolius,4
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis,4
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina -> Lippia javanica,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Cynanchum viminale,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Justicia flava,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Mikania natalensis,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,4
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,4
+Boaedon capensis -> Passer domesticus -> Mantis religiosa -> Sympetrum fonscolombii,4
+Bombus griseocollis -> Asclepias speciosa -> Papilio rutulus -> Iris missouriensis,4
+Bombus nevadensis -> Asclepias speciosa -> Papilio rutulus -> Iris missouriensis,4
+Buteo jamaicensis -> Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,4
+Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,4
+Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,4
+Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,4
+Corvus corax -> Crotalus oreganus oreganus -> Otospermophilus beecheyi -> Quercus lobata,4
+Delta fenestrale -> Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,4
+Delta fenestrale -> Chromolaena odorata -> Belenois creona severina -> Justicia flava,4
+Delta fenestrale -> Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,4
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Dais cotinifolia,4
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Distephanus angulifolius,4
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis,4
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina -> Lippia javanica,4
+Delta fenestrale -> Chromolaena odorata -> Telchinia serena -> Mikania natalensis,4
+Delta fenestrale -> Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,4
+Delta fenestrale -> Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,4
+Delta fenestrale -> Chromolaena odorata -> Telchinia serena -> Tridax procumbens,4
+Delta fenestrale -> Chromolaena odorata -> Telchinia serena -> Waltheria indica,4
+Egretta caerulea -> Anax junius -> Erythemis simplicicollis -> Celithemis fasciata,4
+Egretta caerulea -> Anax junius -> Erythemis simplicicollis -> Pachydiplax longipennis,4
+Egretta caerulea -> Anax junius -> Erythemis simplicicollis -> Perithemis tenera,4
+Egretta garzetta -> Anguilla anguilla -> Larus michahellis -> Columba livia,4
+Egretta garzetta -> Anguilla anguilla -> Larus michahellis -> Streptopelia decaocto,4
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Bradypodion damaranum,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Gryllotalpa africana,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Hyperolius marmoratus taeniatus,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Hyperolius marmoratus verrucosus,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Lygodactylus capensis,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Opisthacanthus capensis,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Rhabdomys pumilio,3
+Acanthacris ruficornis -> Halcyon albiventris albiventris -> Tetradactylus seps,3
+Accipiter nisus -> Passer domesticus -> Magicicada cassinii,3
+Accipiter nisus -> Passer domesticus -> Mantis religiosa,3
+Accipiter striatus -> Dryobates pubescens -> Rhus typhina,3
+Aerospiza tachiro -> Crinifer concolor -> Adansonia digitata,3
+Aerospiza tachiro -> Crinifer concolor -> Cascabela thevetia,3
+Aerospiza tachiro -> Crinifer concolor -> Ficus bussei,3
+Aerospiza tachiro -> Crinifer concolor -> Senna singueana,3
+Afrogegenes -> Chromolaena odorata -> Belenois creona severina,3
+Afrogegenes -> Chromolaena odorata -> Delta fenestrale,3
+Afrogegenes -> Chromolaena odorata -> Mylothris agathina agathina,3
+Afrogegenes -> Chromolaena odorata -> Telchinia serena,3
+Agelaius phoeniceus -> Anax junius -> Erythemis simplicicollis,3
+Alligator mississippiensis -> Chelydra serpentina -> Branta canadensis,3
+Alligator mississippiensis -> Chelydra serpentina -> Dorosoma cepedianum,3
+Alligator mississippiensis -> Fulica americana -> Pontederia cordata,3
+Amblyomma hebraeum -> Tragelaphus strepsiceros strepsiceros -> Sclerocroton integerrimus,3
+Amblyomma hebraeum -> Tragelaphus strepsiceros strepsiceros -> Ziziphus mucronata,3
+Anax junius -> Erythemis simplicicollis -> Celithemis fasciata,3
+Anax junius -> Erythemis simplicicollis -> Pachydiplax longipennis,3
+Anax junius -> Erythemis simplicicollis -> Perithemis tenera,3
+Andrenosoma hesperium -> Apis mellifera -> Ageratina havanensis,3
+Andrenosoma hesperium -> Apis mellifera -> Anchusa officinalis,3
+Andrenosoma hesperium -> Apis mellifera -> Apiomerus californicus,3
+Andrenosoma hesperium -> Apis mellifera -> Asclepias fascicularis,3
+Andrenosoma hesperium -> Apis mellifera -> Asclepias tuberosa,3
+Andrenosoma hesperium -> Apis mellifera -> Baccharis pilularis,3
+Andrenosoma hesperium -> Apis mellifera -> Cakile maritima,3
+Andrenosoma hesperium -> Apis mellifera -> Cirsium arvense,3
+Andrenosoma hesperium -> Apis mellifera -> Cirsium horridulum,3
+Andrenosoma hesperium -> Apis mellifera -> Datura wrightii,3
+Andrenosoma hesperium -> Apis mellifera -> Eriogonum fasciculatum,3
+Andrenosoma hesperium -> Apis mellifera -> Ficus sur,3
+Andrenosoma hesperium -> Apis mellifera -> Hydrophyllum fendleri,3
+Andrenosoma hesperium -> Apis mellifera -> Jacobaea vulgaris,3
+Andrenosoma hesperium -> Apis mellifera -> Lonicera maackii,3
+Andrenosoma hesperium -> Apis mellifera -> Ochna pulchra,3
+Andrenosoma hesperium -> Apis mellifera -> Ozoroa obovata obovata,3
+Andrenosoma hesperium -> Apis mellifera -> Paspalum notatum,3
+Andrenosoma hesperium -> Apis mellifera -> Rubus odoratus,3
+Andrenosoma hesperium -> Apis mellifera -> Salvia mellifera,3
+Andrenosoma hesperium -> Apis mellifera -> Satureja montana,3
+Andrenosoma hesperium -> Apis mellifera -> Senecio deltoideus,3
+Andrenosoma hesperium -> Apis mellifera -> Taraxacum officinale,3
+Andrenosoma hesperium -> Apis mellifera -> Toxicodendron pubescens,3
+Andrenosoma hesperium -> Apis mellifera -> Trichostema lanceolatum,3
+Andrenosoma hesperium -> Apis mellifera -> Trifolium repens,3
+Andrenosoma hesperium -> Apis mellifera -> Turnera subulata,3
+Andrenosoma hesperium -> Apis mellifera -> Viguiera dentata,3
+Anguilla anguilla -> Egretta garzetta -> Aphanius fasciatus,3
+Anguilla anguilla -> Egretta garzetta -> Lampetra planeri,3
+Anguilla anguilla -> Larus michahellis -> Columba livia,3
+Anguilla anguilla -> Larus michahellis -> Streptopelia decaocto,3
+Anolis carolinensis -> Erythemis simplicicollis -> Celithemis fasciata,3
+Anolis carolinensis -> Erythemis simplicicollis -> Pachydiplax longipennis,3
+Anolis carolinensis -> Erythemis simplicicollis -> Perithemis tenera,3
+Anolis sagrei -> Erythemis simplicicollis -> Celithemis fasciata,3
+Anolis sagrei -> Erythemis simplicicollis -> Pachydiplax longipennis,3
+Anolis sagrei -> Erythemis simplicicollis -> Perithemis tenera,3
+Anolis sagrei -> Hemidactylus mabouia -> Amata simplex,3
+Anolis sagrei -> Hemidactylus mabouia -> Gryllus bimaculatus,3
+Anthopleura artemisia -> Hemigrapsus oregonensis -> Cymatogaster aggregata,3
+Apiomerus californicus -> Apis mellifera -> Ageratina havanensis,3
+Apiomerus californicus -> Apis mellifera -> Anchusa officinalis,3
+Apiomerus californicus -> Apis mellifera -> Asclepias fascicularis,3
+Apiomerus californicus -> Apis mellifera -> Asclepias tuberosa,3
+Apiomerus californicus -> Apis mellifera -> Baccharis pilularis,3
+Apiomerus californicus -> Apis mellifera -> Cakile maritima,3
+Apiomerus californicus -> Apis mellifera -> Cirsium arvense,3
+Apiomerus californicus -> Apis mellifera -> Cirsium horridulum,3
+Apiomerus californicus -> Apis mellifera -> Datura wrightii,3
+Apiomerus californicus -> Apis mellifera -> Eriogonum fasciculatum,3
+Apiomerus californicus -> Apis mellifera -> Ficus sur,3
+Apiomerus californicus -> Apis mellifera -> Hydrophyllum fendleri,3
+Apiomerus californicus -> Apis mellifera -> Jacobaea vulgaris,3
+Apiomerus californicus -> Apis mellifera -> Lonicera maackii,3
+Apiomerus californicus -> Apis mellifera -> Ochna pulchra,3
+Apiomerus californicus -> Apis mellifera -> Ozoroa obovata obovata,3
+Apiomerus californicus -> Apis mellifera -> Paspalum notatum,3
+Apiomerus californicus -> Apis mellifera -> Rubus odoratus,3
+Apiomerus californicus -> Apis mellifera -> Salvia mellifera,3
+Apiomerus californicus -> Apis mellifera -> Satureja montana,3
+Apiomerus californicus -> Apis mellifera -> Senecio deltoideus,3
+Apiomerus californicus -> Apis mellifera -> Taraxacum officinale,3
+Apiomerus californicus -> Apis mellifera -> Toxicodendron pubescens,3
+Apiomerus californicus -> Apis mellifera -> Trichostema lanceolatum,3
+Apiomerus californicus -> Apis mellifera -> Trifolium repens,3
+Apiomerus californicus -> Apis mellifera -> Turnera subulata,3
+Apiomerus californicus -> Apis mellifera -> Viguiera dentata,3
+Aquarius remigis -> Vespula pensylvanica -> Apis mellifera,3
+Aquarius remigis -> Vespula pensylvanica -> Rattus rattus,3
+Ardea cinerea -> Anguilla anguilla -> Egretta garzetta,3
+Ardea cinerea -> Anguilla anguilla -> Larus michahellis,3
+Ardea cinerea -> Natrix tessellata -> Neogobius melanostomus,3
+Ardea herodias -> Nerodia sipedon -> Anaxyrus americanus,3
+Ardea herodias -> Nerodia sipedon -> Cottus bairdii,3
+Argiope trifasciata -> Apis mellifera -> Ageratina havanensis,3
+Argiope trifasciata -> Apis mellifera -> Anchusa officinalis,3
+Argiope trifasciata -> Apis mellifera -> Apiomerus californicus,3
+Argiope trifasciata -> Apis mellifera -> Asclepias fascicularis,3
+Argiope trifasciata -> Apis mellifera -> Asclepias tuberosa,3
+Argiope trifasciata -> Apis mellifera -> Baccharis pilularis,3
+Argiope trifasciata -> Apis mellifera -> Cakile maritima,3
+Argiope trifasciata -> Apis mellifera -> Cirsium arvense,3
+Argiope trifasciata -> Apis mellifera -> Cirsium horridulum,3
+Argiope trifasciata -> Apis mellifera -> Datura wrightii,3
+Argiope trifasciata -> Apis mellifera -> Eriogonum fasciculatum,3
+Argiope trifasciata -> Apis mellifera -> Ficus sur,3
+Argiope trifasciata -> Apis mellifera -> Hydrophyllum fendleri,3
+Argiope trifasciata -> Apis mellifera -> Jacobaea vulgaris,3
+Argiope trifasciata -> Apis mellifera -> Lonicera maackii,3
+Argiope trifasciata -> Apis mellifera -> Ochna pulchra,3
+Argiope trifasciata -> Apis mellifera -> Ozoroa obovata obovata,3
+Argiope trifasciata -> Apis mellifera -> Paspalum notatum,3
+Argiope trifasciata -> Apis mellifera -> Rubus odoratus,3
+Argiope trifasciata -> Apis mellifera -> Salvia mellifera,3
+Argiope trifasciata -> Apis mellifera -> Satureja montana,3
+Argiope trifasciata -> Apis mellifera -> Senecio deltoideus,3
+Argiope trifasciata -> Apis mellifera -> Taraxacum officinale,3
+Argiope trifasciata -> Apis mellifera -> Toxicodendron pubescens,3
+Argiope trifasciata -> Apis mellifera -> Trichostema lanceolatum,3
+Argiope trifasciata -> Apis mellifera -> Trifolium repens,3
+Argiope trifasciata -> Apis mellifera -> Turnera subulata,3
+Argiope trifasciata -> Apis mellifera -> Viguiera dentata,3
+Aricia agestis -> Pentaglottis sempervirens -> Bunaea alcinoe,3
+Asclepias speciosa -> Papilio rutulus -> Iris missouriensis,3
+Astur melanoleucus -> Ardea ibis -> Periplaneta americana,3
+Belenois creona severina -> Chromolaena odorata -> Delta fenestrale,3
+Belenois creona severina -> Chromolaena odorata -> Mylothris agathina agathina,3
+Belenois creona severina -> Chromolaena odorata -> Telchinia serena,3
+Boaedon capensis -> Passer domesticus -> Magicicada cassinii,3
+Boaedon capensis -> Passer domesticus -> Mantis religiosa,3
+Bombus griseocollis -> Asclepias speciosa -> Papilio rutulus,3
+Bombus nevadensis -> Asclepias speciosa -> Papilio rutulus,3
+Bombus nevadensis -> Astragalus cicer -> Bombus appositus,3
+Bombus pratorum -> Pentaglottis sempervirens -> Bunaea alcinoe,3
+Brunneria borealis -> Dione vanillae -> Lantana strigocamara,3
+Brunneria borealis -> Dione vanillae -> Passiflora incarnata,3
+Brunneria borealis -> Dione vanillae -> Passiflora lutea,3
+Brunneria borealis -> Dione vanillae -> Passiflora tenuiloba,3
+Buteo jamaicensis -> Otospermophilus beecheyi -> Quercus lobata,3
+Buteo jamaicensis -> Sciurus carolinensis -> Callicarpa americana,3
+Buteo jamaicensis -> Sciurus carolinensis -> Coprinopsis lagopus,3
+Buteo jamaicensis -> Sciurus carolinensis -> Odocoileus virginianus,3
+Buteo jamaicensis -> Sciurus carolinensis -> Taraxacum,3
+Buteo jamaicensis -> Turdus migratorius -> Ilex vomitoria,3
+Buteo jamaicensis -> Turdus migratorius -> Mantis religiosa,3
+Buteo jamaicensis -> Turdus migratorius -> Prunus virginiana,3
+Buteo jamaicensis -> Turdus migratorius -> Rhamnus cathartica,3
+Camponotus maculatus -> Hemidactylus mabouia -> Amata simplex,3
+Camponotus maculatus -> Hemidactylus mabouia -> Gryllus bimaculatus,3
+Canis latrans -> Castor canadensis -> Fraxinus latifolia,3
+Canis latrans -> Castor canadensis -> Nuphar variegata,3
+Cathartes aura -> Phoca vitulina richardii -> Cymatogaster aggregata,3
+Cathartes aura -> Sciurus carolinensis -> Callicarpa americana,3
+Cathartes aura -> Sciurus carolinensis -> Coprinopsis lagopus,3
+Cathartes aura -> Sciurus carolinensis -> Odocoileus virginianus,3
+Cathartes aura -> Sciurus carolinensis -> Taraxacum,3
+Chromolaena odorata -> Belenois creona severina -> Cynanchum viminale,3
+Chromolaena odorata -> Belenois creona severina -> Justicia flava,3
+Chromolaena odorata -> Belenois creona severina -> Solanum seaforthianum,3
+Chromolaena odorata -> Mylothris agathina agathina -> Dais cotinifolia,3
+Chromolaena odorata -> Mylothris agathina agathina -> Distephanus angulifolius,3
+Chromolaena odorata -> Mylothris agathina agathina -> Globimetula mweroensis,3
+Chromolaena odorata -> Mylothris agathina agathina -> Lippia javanica,3
+Chromolaena odorata -> Telchinia serena -> Mikania natalensis,3
+Chromolaena odorata -> Telchinia serena -> Senecio polyanthemoides,3
+Chromolaena odorata -> Telchinia serena -> Sida cordifolia cordifolia,3
+Chromolaena odorata -> Telchinia serena -> Tridax procumbens,3
+Chromolaena odorata -> Telchinia serena -> Waltheria indica,3
+Circaetus pectoralis -> Naja nivea -> Bitis arietans,3
+Circus ranivorus -> Zapornia flavirostra -> Hyperolius marmoratus verrucosus,3
+Coragyps atratus -> Canis familiaris -> Odocoileus virginianus,3
+Coragyps atratus -> Dasypus mexicanus -> Diospyros virginiana,3
+Coragyps atratus -> Felis catus -> Leiolepis belliana,3
+Coragyps atratus -> Felis catus -> Leptopelis natalensis,3
+Coragyps atratus -> Sus scrofa -> Juglans regia,3
+Corvus corax -> Crotalus oreganus oreganus -> Otospermophilus beecheyi,3
+Cotesia glomerata -> Pieris brassicae -> Tropaeolum majus,3
+Crocodylus niloticus -> Papio ursinus griseipes -> Ficus bussei,3
+Crocodylus niloticus -> Papio ursinus griseipes -> Sporobolus pyramidalis,3
+Crocodylus niloticus cowiei -> Papio ursinus griseipes -> Ficus bussei,3
+Crocodylus niloticus cowiei -> Papio ursinus griseipes -> Sporobolus pyramidalis,3
+Crotalus oreganus -> Otospermophilus beecheyi -> Quercus lobata,3
+Crotalus oreganus oreganus -> Otospermophilus beecheyi -> Quercus lobata,3
+Delta fenestrale -> Chromolaena odorata -> Belenois creona severina,3
+Delta fenestrale -> Chromolaena odorata -> Mylothris agathina agathina,3
+Delta fenestrale -> Chromolaena odorata -> Telchinia serena,3
+Dendroaspis polylepis -> Ploceus cucullatus -> Ficus burkei,3
+Egretta caerulea -> Anax junius -> Erythemis simplicicollis,3
+Egretta garzetta -> Anguilla anguilla -> Larus michahellis,3
+Euthyrhynchus floridanus -> Bombus impatiens -> Berberis thunbergii,3
+Euthyrhynchus floridanus -> Bombus impatiens -> Eutrochium maculatum,3
+Euthyrhynchus floridanus -> Bombus impatiens -> Melilotus officinalis,3
+Falco columbarius -> Sturnus vulgaris -> Podarcis muralis,3
+Falco columbarius -> Zonotrichia albicollis -> Rhus typhina,3
+Falco naumanni -> Saga pedo -> Aporia crataegi,3
+Falco peregrinus -> Tringa semipalmata -> Emerita analoga,3
+Gallinula chloropus -> Mesotriton alpestris -> Epinotia tedella,3
+Geronticus eremita -> Podarcis siculus -> Tandonia sowerbyi,3
+Gyps africanus -> Crocuta crocuta -> Hippopotamus amphibius,3
+Gyps africanus -> Crocuta crocuta -> Sylvicapra grimmia,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Cancer productus,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Forficula dentata,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Oncorhynchus keta,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Pholis laeta,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Pholis ornata,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Rattus rattus,3
+Haliaeetus leucocephalus -> Corvus brachyrhynchos -> Sylvilagus floridanus,3
+Syrphini -> Uroleucon -> Bidens pilosa,3
+Syzygium cordatum -> Parapoderus submarginatus -> Syzygium cordatum cordatum,3
+Tachycines asynamorus -> Neoscona crucifera -> Oebalus pugnax,3
+Tamiasciurus hudsonicus -> Turdus migratorius -> Ilex vomitoria,3
+Tamiasciurus hudsonicus -> Turdus migratorius -> Mantis religiosa,3
+Tamiasciurus hudsonicus -> Turdus migratorius -> Prunus virginiana,3
+Tamiasciurus hudsonicus -> Turdus migratorius -> Rhamnus cathartica,3
+Telchinia serena -> Chromolaena odorata -> Belenois creona severina,3
+Telchinia serena -> Chromolaena odorata -> Delta fenestrale,3
+Telchinia serena -> Chromolaena odorata -> Mylothris agathina agathina,3
+Tenodera angustipennis -> Bombus impatiens -> Berberis thunbergii,3
+Tenodera angustipennis -> Bombus impatiens -> Eutrochium maculatum,3
+Tenodera angustipennis -> Bombus impatiens -> Melilotus officinalis,3
+Tetramorium immigrans -> Vespula maculifrons -> Didelphis virginiana,3
+Tetramorium immigrans -> Vespula maculifrons -> Neotibicen lyricen engelhardti,3
+Thomisus kalaharinus -> Apis mellifera scutellata -> Ochna pulchra,3
+Thomisus kalaharinus -> Apis mellifera scutellata -> Ozoroa obovata obovata,3
+Thomisus kalaharinus -> Apis mellifera scutellata -> Senecio deltoideus,3
+Thomisus stenningi -> Apis mellifera scutellata -> Ochna pulchra,3
+Thomisus stenningi -> Apis mellifera scutellata -> Ozoroa obovata obovata,3
+Thomisus stenningi -> Apis mellifera scutellata -> Senecio deltoideus,3
+Trichonephila clavata -> Apis mellifera -> Ageratina havanensis,3
+Trichonephila clavata -> Apis mellifera -> Anchusa officinalis,3
+Trichonephila clavata -> Apis mellifera -> Apiomerus californicus,3
+Trichonephila clavata -> Apis mellifera -> Asclepias fascicularis,3
+Trichonephila clavata -> Apis mellifera -> Asclepias tuberosa,3
+Trichonephila clavata -> Apis mellifera -> Baccharis pilularis,3
+Trichonephila clavata -> Apis mellifera -> Cakile maritima,3
+Trichonephila clavata -> Apis mellifera -> Cirsium arvense,3
+Trichonephila clavata -> Apis mellifera -> Cirsium horridulum,3
+Trichonephila clavata -> Apis mellifera -> Datura wrightii,3
+Trichonephila clavata -> Apis mellifera -> Eriogonum fasciculatum,3
+Trichonephila clavata -> Apis mellifera -> Ficus sur,3
+Trichonephila clavata -> Apis mellifera -> Hydrophyllum fendleri,3
+Trichonephila clavata -> Apis mellifera -> Jacobaea vulgaris,3
+Trichonephila clavata -> Apis mellifera -> Lonicera maackii,3
+Trichonephila clavata -> Apis mellifera -> Ochna pulchra,3
+Trichonephila clavata -> Apis mellifera -> Ozoroa obovata obovata,3
+Trichonephila clavata -> Apis mellifera -> Paspalum notatum,3
+Trichonephila clavata -> Apis mellifera -> Rubus odoratus,3
+Trichonephila clavata -> Apis mellifera -> Salvia mellifera,3
+Trichonephila clavata -> Apis mellifera -> Satureja montana,3
+Trichonephila clavata -> Apis mellifera -> Senecio deltoideus,3
+Trichonephila clavata -> Apis mellifera -> Taraxacum officinale,3
+Trichonephila clavata -> Apis mellifera -> Toxicodendron pubescens,3
+Trichonephila clavata -> Apis mellifera -> Trichostema lanceolatum,3
+Trichonephila clavata -> Apis mellifera -> Trifolium repens,3
+Trichonephila clavata -> Apis mellifera -> Turnera subulata,3
+Trichonephila clavata -> Apis mellifera -> Viguiera dentata,3
+Trichonephila clavata -> Vespula maculifrons -> Didelphis virginiana,3
+Trichonephila clavata -> Vespula maculifrons -> Neotibicen lyricen engelhardti,3
+Trigonoceps occipitalis -> Panthera leo melanochaita -> Connochaetes taurinus mearnsi,3
+Trigonoceps occipitalis -> Panthera leo melanochaita -> Hippotragus niger niger,3
+Trigonoceps occipitalis -> Panthera leo melanochaita -> Syncerus caffer caffer,3
+Trinectes maculatus -> Leucophaeus atricilla -> Callinectes sapidus,3
+Turdus migratorius -> Mantis religiosa -> Sympetrum fonscolombii,3
+Turdus philomelos -> Cornu aspersum -> Stellaria media,3
+Vespa crabro -> Promachus hinei -> Erythemis simplicicollis,3
+Vespa crabro -> Promachus hinei -> Phyciodes tharos,3
+Vespula germanica -> Carduelis carduelis -> Centaurea jacea,3
+Vespula germanica -> Carduelis carduelis -> Centaurea nigra,3
+Vespula germanica -> Tarentola mauritanica -> Earias insulana,3
+Vespula germanica -> Tarentola mauritanica -> Periplaneta americana,3
+Vespula germanica -> Utetheisa pulchella -> Senecio tamoides,3
+Vespula pensylvanica -> Apis mellifera -> Ageratina havanensis,3
+Vespula pensylvanica -> Apis mellifera -> Anchusa officinalis,3
+Vespula pensylvanica -> Apis mellifera -> Apiomerus californicus,3
+Vespula pensylvanica -> Apis mellifera -> Asclepias fascicularis,3
+Vespula pensylvanica -> Apis mellifera -> Asclepias tuberosa,3
+Vespula pensylvanica -> Apis mellifera -> Baccharis pilularis,3
+Vespula pensylvanica -> Apis mellifera -> Cakile maritima,3
+Vespula pensylvanica -> Apis mellifera -> Cirsium arvense,3
+Vespula pensylvanica -> Apis mellifera -> Cirsium horridulum,3
+Vespula pensylvanica -> Apis mellifera -> Datura wrightii,3
+Vespula pensylvanica -> Apis mellifera -> Eriogonum fasciculatum,3
+Vespula pensylvanica -> Apis mellifera -> Ficus sur,3
+Vespula pensylvanica -> Apis mellifera -> Hydrophyllum fendleri,3
+Vespula pensylvanica -> Apis mellifera -> Jacobaea vulgaris,3
+Vespula pensylvanica -> Apis mellifera -> Lonicera maackii,3
+Vespula pensylvanica -> Apis mellifera -> Ochna pulchra,3
+Vespula pensylvanica -> Apis mellifera -> Ozoroa obovata obovata,3
+Vespula pensylvanica -> Apis mellifera -> Paspalum notatum,3
+Vespula pensylvanica -> Apis mellifera -> Rubus odoratus,3
+Vespula pensylvanica -> Apis mellifera -> Salvia mellifera,3
+Vespula pensylvanica -> Apis mellifera -> Satureja montana,3
+Vespula pensylvanica -> Apis mellifera -> Senecio deltoideus,3
+Vespula pensylvanica -> Apis mellifera -> Taraxacum officinale,3
+Vespula pensylvanica -> Apis mellifera -> Toxicodendron pubescens,3
+Vespula pensylvanica -> Apis mellifera -> Trichostema lanceolatum,3
+Vespula pensylvanica -> Apis mellifera -> Trifolium repens,3
+Vespula pensylvanica -> Apis mellifera -> Turnera subulata,3
+Vespula pensylvanica -> Apis mellifera -> Viguiera dentata,3
+Vulpes vulpes -> Sciurus carolinensis -> Callicarpa americana,3
+Vulpes vulpes -> Sciurus carolinensis -> Coprinopsis lagopus,3
+Vulpes vulpes -> Sciurus carolinensis -> Odocoileus virginianus,3
+Vulpes vulpes -> Sciurus carolinensis -> Taraxacum,3
+Zelus longipes -> Plecia nearctica -> Asimina angustifolia,3
+Zelus longipes -> Toxomerus marginatus -> Anemone berlandieri,3
+Zelus longipes -> Toxomerus marginatus -> Capsella bursa-pastoris,3
+Zelus longipes -> Toxomerus marginatus -> Cichorium intybus,3
+Zelus longipes -> Toxomerus marginatus -> Commelina erecta,3
+Zelus longipes -> Toxomerus marginatus -> Convolvulus arvensis,3
+Zelus longipes -> Toxomerus marginatus -> Plantago lanceolata,3
+Zelus longipes -> Toxomerus marginatus -> Rudbeckia hirta,3
+Zelus longipes -> Toxomerus marginatus -> Taraxacum officinale,3
+Zelus longipes -> Toxomerus marginatus -> Verbesina encelioides,3
+Zodarion rubidum -> Tetramorium immigrans -> Forficula dentata,3
+Zodarion rubidum -> Tetramorium immigrans -> Hylocichla mustelina,3
+Zodarion rubidum -> Tetramorium immigrans -> Porcellio scaber,3
+Zodarion rubidum -> Tetramorium immigrans -> Taraxacum officinale,3
+Zodarion rubidum -> Tetramorium immigrans -> Vespula maculifrons,3
+Zygiella x-notata -> Polistes dominula -> Cirsium arvense,3
+Hemidactylus turcicus -> Erythemis simplicicollis -> Celithemis fasciata,3
+Hemidactylus turcicus -> Erythemis simplicicollis -> Pachydiplax longipennis,3
+Hemidactylus turcicus -> Erythemis simplicicollis -> Perithemis tenera,3
+Heteropoda venatoria -> Hemidactylus turcicus -> Erythemis simplicicollis,3
+Hogna radiata -> Podarcis siculus -> Tandonia sowerbyi,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Acanthacris ruficornis,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Bradypodion damaranum,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Gryllotalpa africana,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Hyperolius marmoratus taeniatus,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Hyperolius marmoratus verrucosus,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Lygodactylus capensis,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Opisthacanthus capensis,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Rhabdomys pumilio,3
+Hyperolius marmoratus -> Halcyon albiventris albiventris -> Tetradactylus seps,3
+Lampropeltis getula -> Agkistrodon contortrix -> Glaucomys volans,3
+Lampropeltis getula -> Agkistrodon contortrix -> Storeria occipitomaculata,3
+Lanius ludovicianus -> Anolis sagrei -> Erythemis simplicicollis,3
+Lanius ludovicianus -> Anolis sagrei -> Hemidactylus mabouia,3
+Larus argentatus -> Gallinula chloropus -> Mesotriton alpestris,3
+Larus argentatus -> Gallinula chloropus -> Nymphaea lotus,3
+Larus fuscus -> Salmo trutta -> Cottus gobio,3
+Larus glaucescens × occidentalis -> Pisaster ochraceus -> Mytilus californianus,3
+Larus glaucescens × occidentalis -> Pisaster ochraceus -> Strongylocentrotus purpuratus,3
+Larus marinus -> Anguilla anguilla -> Egretta garzetta,3
+Larus marinus -> Anguilla anguilla -> Larus michahellis,3
+Larus marinus -> Rynchops niger -> Atherinops affinis,3
+Larus michahellis -> Anguilla anguilla -> Egretta garzetta,3
+Leptoptilos crumenifer -> Crocuta crocuta -> Hippopotamus amphibius,3
+Leptoptilos crumenifer -> Crocuta crocuta -> Sylvicapra grimmia,3
+Linepithema humile -> Macroglossum stellatarum -> Saponaria pumila,3
+Linepithema humile -> Macroglossum stellatarum -> Viscaria vulgaris,3
+Lippia javanica -> Mylothris agathina agathina -> Chromolaena odorata,3
+Lippia javanica -> Mylothris agathina agathina -> Dais cotinifolia,3
+Lippia javanica -> Mylothris agathina agathina -> Distephanus angulifolius,3
+Lippia javanica -> Mylothris agathina agathina -> Globimetula mweroensis,3
+Lon taxiles -> Asclepias speciosa -> Papilio rutulus,3
+Lontra canadensis -> Urile penicillatus -> Gibbonsia metzi,3
+Lynx rufus -> Sciurus carolinensis -> Callicarpa americana,3
+Lynx rufus -> Sciurus carolinensis -> Coprinopsis lagopus,3
+Lynx rufus -> Sciurus carolinensis -> Odocoileus virginianus,3
+Lynx rufus -> Sciurus carolinensis -> Taraxacum,3
+Melanerpes lewis -> Bombus griseocollis -> Asclepias speciosa,3
+Melanerpes lewis -> Bombus griseocollis -> Cirsium vulgare,3
+Melanerpes lewis -> Bombus griseocollis -> Dalea purpurea,3
+Melanerpes lewis -> Bombus griseocollis -> Melilotus albus,3
+Melanerpes lewis -> Bombus griseocollis -> Teucrium canadense,3
+Merops apiaster -> Vanessa atalanta -> Achillea millefolium,3
+Merops apiaster -> Vanessa atalanta -> Prunus virginiana,3
+Microhierax fringillarius -> Cephonodes hylas -> Psorospermum febrifugum,3
+Milvus migrans -> Pachylomera femoralis -> Aepyceros melampus melampus,3
+Milvus migrans parasitus -> Pachylomera femoralis -> Aepyceros melampus melampus,3
+Misumena vatia -> Apis mellifera -> Ageratina havanensis,3
+Misumena vatia -> Apis mellifera -> Anchusa officinalis,3
+Misumena vatia -> Apis mellifera -> Apiomerus californicus,3
+Misumena vatia -> Apis mellifera -> Asclepias fascicularis,3
+Misumena vatia -> Apis mellifera -> Asclepias tuberosa,3
+Misumena vatia -> Apis mellifera -> Baccharis pilularis,3
+Misumena vatia -> Apis mellifera -> Cakile maritima,3
+Misumena vatia -> Apis mellifera -> Cirsium arvense,3
+Misumena vatia -> Apis mellifera -> Cirsium horridulum,3
+Misumena vatia -> Apis mellifera -> Datura wrightii,3
+Misumena vatia -> Apis mellifera -> Eriogonum fasciculatum,3
+Misumena vatia -> Apis mellifera -> Ficus sur,3
+Misumena vatia -> Apis mellifera -> Hydrophyllum fendleri,3
+Misumena vatia -> Apis mellifera -> Jacobaea vulgaris,3
+Misumena vatia -> Apis mellifera -> Lonicera maackii,3
+Misumena vatia -> Apis mellifera -> Ochna pulchra,3
+Misumena vatia -> Apis mellifera -> Ozoroa obovata obovata,3
+Misumena vatia -> Apis mellifera -> Paspalum notatum,3
+Misumena vatia -> Apis mellifera -> Rubus odoratus,3
+Misumena vatia -> Apis mellifera -> Salvia mellifera,3
+Misumena vatia -> Apis mellifera -> Satureja montana,3
+Misumena vatia -> Apis mellifera -> Senecio deltoideus,3
+Misumena vatia -> Apis mellifera -> Taraxacum officinale,3
+Misumena vatia -> Apis mellifera -> Toxicodendron pubescens,3
+Misumena vatia -> Apis mellifera -> Trichostema lanceolatum,3
+Misumena vatia -> Apis mellifera -> Trifolium repens,3
+Misumena vatia -> Apis mellifera -> Turnera subulata,3
+Misumena vatia -> Apis mellifera -> Viguiera dentata,3
+Misumena vatia -> Bombus flavifrons -> Carduus nutans,3
+Misumena vatia -> Toxomerus geminatus -> Actaea racemosa,3
+Misumenini -> Zadontomerus -> Geranium maculatum,3
+Misumenoides formosipes -> Apis mellifera -> Ageratina havanensis,3
+Misumenoides formosipes -> Apis mellifera -> Anchusa officinalis,3
+Misumenoides formosipes -> Apis mellifera -> Apiomerus californicus,3
+Misumenoides formosipes -> Apis mellifera -> Asclepias fascicularis,3
+Misumenoides formosipes -> Apis mellifera -> Asclepias tuberosa,3
+Misumenoides formosipes -> Apis mellifera -> Baccharis pilularis,3
+Misumenoides formosipes -> Apis mellifera -> Cakile maritima,3
+Misumenoides formosipes -> Apis mellifera -> Cirsium arvense,3
+Misumenoides formosipes -> Apis mellifera -> Cirsium horridulum,3
+Misumenoides formosipes -> Apis mellifera -> Datura wrightii,3
+Misumenoides formosipes -> Apis mellifera -> Eriogonum fasciculatum,3
+Misumenoides formosipes -> Apis mellifera -> Ficus sur,3
+Misumenoides formosipes -> Apis mellifera -> Hydrophyllum fendleri,3
+Misumenoides formosipes -> Apis mellifera -> Jacobaea vulgaris,3
+Misumenoides formosipes -> Apis mellifera -> Lonicera maackii,3
+Misumenoides formosipes -> Apis mellifera -> Ochna pulchra,3
+Misumenoides formosipes -> Apis mellifera -> Ozoroa obovata obovata,3
+Misumenoides formosipes -> Apis mellifera -> Paspalum notatum,3
+Misumenoides formosipes -> Apis mellifera -> Rubus odoratus,3
+Misumenoides formosipes -> Apis mellifera -> Salvia mellifera,3
+Misumenoides formosipes -> Apis mellifera -> Satureja montana,3
+Misumenoides formosipes -> Apis mellifera -> Senecio deltoideus,3
+Misumenoides formosipes -> Apis mellifera -> Taraxacum officinale,3
+Misumenoides formosipes -> Apis mellifera -> Toxicodendron pubescens,3
+Misumenoides formosipes -> Apis mellifera -> Trichostema lanceolatum,3
+Misumenoides formosipes -> Apis mellifera -> Trifolium repens,3
+Misumenoides formosipes -> Apis mellifera -> Turnera subulata,3
+Misumenoides formosipes -> Apis mellifera -> Viguiera dentata,3
+Myiarchus crinitus -> Promachus rufipes -> Vespula,3
+Mylothris agathina -> Globimetula mweroensis -> Populus deltoides,3
+Mylothris agathina -> Globimetula mweroensis -> Salix babylonica,3
+Mylothris agathina -> Globimetula mweroensis -> Vangueria vestita,3
+Mylothris agathina agathina -> Chromolaena odorata -> Belenois creona severina,3
+Mylothris agathina agathina -> Chromolaena odorata -> Delta fenestrale,3
+Mylothris agathina agathina -> Chromolaena odorata -> Telchinia serena,3
+Mylothris agathina agathina -> Globimetula mweroensis -> Populus deltoides,3
+Mylothris agathina agathina -> Globimetula mweroensis -> Salix babylonica,3
+Mylothris agathina agathina -> Globimetula mweroensis -> Vangueria vestita,3
+Necrophila americana -> Sciurus carolinensis -> Callicarpa americana,3
+Necrophila americana -> Sciurus carolinensis -> Coprinopsis lagopus,3
+Necrophila americana -> Sciurus carolinensis -> Odocoileus virginianus,3
+Necrophila americana -> Sciurus carolinensis -> Taraxacum,3
+Necrosyrtes monachus -> Panthera leo melanochaita -> Connochaetes taurinus mearnsi,3
+Necrosyrtes monachus -> Panthera leo melanochaita -> Hippotragus niger niger,3
+Necrosyrtes monachus -> Panthera leo melanochaita -> Syncerus caffer caffer,3
+Neogale vison -> Nannopterum auritum -> Ameiurus nebulosus,3
+Neogale vison -> Nannopterum auritum -> Anguilla rostrata,3
+Neogale vison -> Nannopterum auritum -> Atherinopsis californiensis,3
+Neogale vison -> Nannopterum auritum -> Ictalurus punctatus,3
+Neogale vison -> Nannopterum auritum -> Lepisosteus osseus,3
+Neogale vison -> Nannopterum auritum -> Triakis semifasciata,3
+Neoscona oaxacensis -> Vespula pensylvanica -> Apis mellifera,3
+Neoscona oaxacensis -> Vespula pensylvanica -> Rattus rattus,3
+Nicrophorus marginatus -> Otospermophilus beecheyi -> Quercus lobata,3
+Notechis scutatus -> Salmo trutta -> Cottus gobio,3
+Ophiocordyceps humbertii -> Polistes dominula -> Cirsium arvense,3
+Orthetrum stemmale -> Apis mellifera scutellata -> Ochna pulchra,3
+Orthetrum stemmale -> Apis mellifera scutellata -> Ozoroa obovata obovata,3
+Orthetrum stemmale -> Apis mellifera scutellata -> Senecio deltoideus,3
+Pachnodella impressa -> Pilostyles aethiopica -> Julbernardia globiflora,3
+Pantherophis spiloides -> Strix varia -> Tamiasciurus hudsonicus,3
+Pantherophis spiloides -> Strix varia -> Thamnophis sirtalis concinnus,3
+Passer domesticus -> Mantis religiosa -> Sympetrum fonscolombii,3
+Peucetia viridans -> Apis mellifera -> Ageratina havanensis,3
+Peucetia viridans -> Apis mellifera -> Anchusa officinalis,3
+Peucetia viridans -> Apis mellifera -> Apiomerus californicus,3
+Peucetia viridans -> Apis mellifera -> Asclepias fascicularis,3
+Peucetia viridans -> Apis mellifera -> Asclepias tuberosa,3
+Peucetia viridans -> Apis mellifera -> Baccharis pilularis,3
+Peucetia viridans -> Apis mellifera -> Cakile maritima,3
+Peucetia viridans -> Apis mellifera -> Cirsium arvense,3
+Peucetia viridans -> Apis mellifera -> Cirsium horridulum,3
+Peucetia viridans -> Apis mellifera -> Datura wrightii,3
+Peucetia viridans -> Apis mellifera -> Eriogonum fasciculatum,3
+Peucetia viridans -> Apis mellifera -> Ficus sur,3
+Peucetia viridans -> Apis mellifera -> Hydrophyllum fendleri,3
+Peucetia viridans -> Apis mellifera -> Jacobaea vulgaris,3
+Peucetia viridans -> Apis mellifera -> Lonicera maackii,3
+Peucetia viridans -> Apis mellifera -> Ochna pulchra,3
+Peucetia viridans -> Apis mellifera -> Ozoroa obovata obovata,3
+Peucetia viridans -> Apis mellifera -> Paspalum notatum,3
+Peucetia viridans -> Apis mellifera -> Rubus odoratus,3
+Peucetia viridans -> Apis mellifera -> Salvia mellifera,3
+Peucetia viridans -> Apis mellifera -> Satureja montana,3
+Peucetia viridans -> Apis mellifera -> Senecio deltoideus,3
+Peucetia viridans -> Apis mellifera -> Taraxacum officinale,3
+Peucetia viridans -> Apis mellifera -> Toxicodendron pubescens,3
+Peucetia viridans -> Apis mellifera -> Trichostema lanceolatum,3
+Peucetia viridans -> Apis mellifera -> Trifolium repens,3
+Peucetia viridans -> Apis mellifera -> Turnera subulata,3
+Peucetia viridans -> Apis mellifera -> Viguiera dentata,3
+Peucetia viridans -> Bombus impatiens -> Berberis thunbergii,3
+Peucetia viridans -> Bombus impatiens -> Eutrochium maculatum,3
+Peucetia viridans -> Bombus impatiens -> Melilotus officinalis,3
+Peucetia viridans -> Dione vanillae -> Lantana strigocamara,3
+Peucetia viridans -> Dione vanillae -> Passiflora incarnata,3
+Peucetia viridans -> Dione vanillae -> Passiflora lutea,3
+Peucetia viridans -> Dione vanillae -> Passiflora tenuiloba,3
+Peucetia viridans -> Vespula squamosa -> Schizura ipomaeae,3
+Phalacrocorax carbo -> Anguilla anguilla -> Egretta garzetta,3
+Phalacrocorax carbo -> Anguilla anguilla -> Larus michahellis,3
+Pheidole megacephala -> Hemidactylus mabouia -> Amata simplex,3
+Pheidole megacephala -> Hemidactylus mabouia -> Gryllus bimaculatus,3
+Phidippus clarus -> Toxomerus marginatus -> Anemone berlandieri,3
+Phidippus clarus -> Toxomerus marginatus -> Capsella bursa-pastoris,3
+Phidippus clarus -> Toxomerus marginatus -> Cichorium intybus,3
+Phidippus clarus -> Toxomerus marginatus -> Commelina erecta,3
+Phidippus clarus -> Toxomerus marginatus -> Convolvulus arvensis,3
+Phidippus clarus -> Toxomerus marginatus -> Plantago lanceolata,3
+Phidippus clarus -> Toxomerus marginatus -> Rudbeckia hirta,3
+Phidippus clarus -> Toxomerus marginatus -> Taraxacum officinale,3
+Phidippus clarus -> Toxomerus marginatus -> Verbesina encelioides,3
+Pica hudsonia -> Tamiasciurus hudsonicus -> Acer saccharinum,3
+Pica hudsonia -> Tamiasciurus hudsonicus -> Juglans nigra,3
+Pica hudsonia -> Tamiasciurus hudsonicus -> Turdus migratorius,3
+Piranga olivacea -> Vespa crabro -> Promachus hinei,3
+Piranga olivacea -> Vespula maculifrons -> Didelphis virginiana,3
+Piranga olivacea -> Vespula maculifrons -> Neotibicen lyricen engelhardti,3
+Polistes major -> Dione vanillae -> Lantana strigocamara,3
+Polistes major -> Dione vanillae -> Passiflora incarnata,3
+Polistes major -> Dione vanillae -> Passiflora lutea,3
+Polistes major -> Dione vanillae -> Passiflora tenuiloba,3
+Progne subis -> Danaus plexippus -> Asclepias curassavica,3
+Progne subis -> Danaus plexippus -> Asclepias incarnata,3
+Progne subis -> Danaus plexippus -> Asclepias syriaca,3
+Progne subis -> Danaus plexippus -> Gomphocarpus fruticosus,3
+Progne subis -> Danaus plexippus -> Nothoscordum bivalve,3
+Progne subis -> Danaus plexippus -> Verbesina virginica,3
+Promachus hinei -> Erythemis simplicicollis -> Celithemis fasciata,3
+Promachus hinei -> Erythemis simplicicollis -> Pachydiplax longipennis,3
+Promachus hinei -> Erythemis simplicicollis -> Perithemis tenera,3
+Promachus rufipes -> Vespula -> Nadata gibbosa,3
+Pycnonotus barbatus -> Zonocerus elegans elegans -> Solanum campylacanthum,3
+Pycnonotus barbatus layardi -> Zonocerus elegans elegans -> Solanum campylacanthum,3
+Quiscalus quiscula -> Passer domesticus -> Magicicada cassinii,3
+Quiscalus quiscula -> Passer domesticus -> Mantis religiosa,3
+Rhipidura leucophrys -> Eristalis tenax -> Ericameria nauseosa,3
+Rhipidura leucophrys -> Eristalis tenax -> Rhodiola rosea,3
+Rhipidura leucophrys -> Eristalis tenax -> Senecio atratus,3
+Sitta carolinensis -> Vanessa atalanta -> Achillea millefolium,3
+Sitta carolinensis -> Vanessa atalanta -> Prunus virginiana,3
+Solidago velutina -> Bombus bifarius -> Geranium caespitosum,3
+Spilornis holospilus -> Chrysopelea paradisi -> Gekko monarchus,3
+Spilornis holospilus -> Chrysopelea paradisi -> Hemidactylus frenatus,3
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Acer saccharinum,3
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Juglans nigra,3
+Spinus tristis tristis -> Tamiasciurus hudsonicus -> Turdus migratorius,3
+Strix varia -> Tamiasciurus hudsonicus -> Acer saccharinum,3
+Strix varia -> Tamiasciurus hudsonicus -> Juglans nigra,3
+Strix varia -> Tamiasciurus hudsonicus -> Turdus migratorius,3
+Hedydipna collaris -> Lantana camara,2
+Hedydipna collaris -> Tecomaria capensis,2
+Hedydipna collaris collaris -> Lantana camara,2
+Hedydipna collaris collaris -> Tecomaria capensis,2
+Hedydipna collaris zuluensis -> Erythrina lysistemon,2
+Helicoverpa armigera -> Cephalaria leucantha,2
+Helicoverpa zea -> Ericameria nauseosa,2
+Hemidactylus bowringii -> Papilio paris,2
+Hemidactylus mabouia -> Amata simplex,2
+Hemidactylus mabouia -> Gryllus bimaculatus,2
+Hemidactylus turcicus -> Erythemis simplicicollis,2
+Hemigrapsus oregonensis -> Cymatogaster aggregata,2
+Heteropoda venatoria -> Hemidactylus turcicus,2
+Hieraaetus wahlbergi -> Numida meleagris,2
+Hierodula patellifera -> Meimuna mongolica,2
+Hierophis viridiflavus -> Anguis veronensis,2
+Hierophis viridiflavus -> Lacerta bilineata,2
+Hierophis viridiflavus carbonarius -> Anguis veronensis,2
+Himantopus mexicanus -> Tridentiger trigonocephalus,2
+Hirudo michaelseni -> Marcusenius caudisquamatus,2
+Histrionicus histrionicus -> Pachygrapsus crassipes,2
+Hogna radiata -> Podarcis siculus,2
+Holocnemus pluchei -> Clathroneuria schwarzi,2
+Hyalophora euryalus -> Pseudotsuga menziesii menziesii,2
+Hycleus lugens -> Ecbolium glabratum,2
+Hycleus oculatus -> Bauhinia tomentosa,2
+Hycleus oculatus -> Canavalia bonariensis,2
+Hyla versicolor -> Apantesis virgo,2
+Hyperechia consimilis -> Synagris,2
+Hyperolius marmoratus -> Halcyon albiventris albiventris,2
+Hyphantria cunea -> Diospyros virginiana,2
+Hypolimnas misippus -> Berkheya radula,2
+Hypolimnas misippus -> Ozoroa obovata obovata,2
+Hypolycaena philippus -> Asystasia intrusa,2
+Hypolycaena philippus -> Justicia flava,2
+Hypolycaena philippus -> Ozoroa obovata obovata,2
+Hypolycaena philippus -> Searsia nebulosa,2
+Hypolycaena philippus -> Tecomaria capensis,2
+Hypolycaena philippus -> Waltheria indica,2
+Hypolycaena philippus philippus -> Asystasia intrusa,2
+Hypolycaena philippus philippus -> Justicia flava,2
+Hypolycaena philippus philippus -> Ozoroa obovata obovata,2
+Hypolycaena philippus philippus -> Waltheria indica,2
+Icterus bullockii -> Amelanchier alnifolia,2
+Icterus galbula -> Lycorma delicatula,2
+Icthyophaga vocifer -> Actophilornis africanus,2
+Icthyophaga vocifer -> Hydrocynus vittatus,2
+Ictinogomphus pertinax -> Parapolybia varia,2
+Iphiclides feisthamelii -> Lythrum salicaria,2
+Iscadida alveolata -> Kalanchoe pinnata,2
+Isistius brasiliensis -> Berardius bairdii,2
+Jadera haematoloma -> Homalodisca liturata,2
+Judolia sexspilota -> Eriophyllum confertiflorum,2
+Julbernardia globiflora -> Pilostyles aethiopica,2
+Junco hyemalis -> Oenothera biennis,2
+Junonia elgiva -> Pavonia dregei,2
+Junonia oenone -> Tridax procumbens,2
+Junonia oenone -> Waltheria indica,2
+Junonia oenone oenone -> Tridax procumbens,2
+Junonia oenone oenone -> Waltheria indica,2
+Kheper nigroaeneus -> Equus quagga burchellii,2
+Lacipa gracilis -> Gladiolus atropurpureus,2
+Lampides boeticus -> Dolichos kilimandscharicus,2
+Lampropeltis californiae -> Elgaria multicarinata,2
+Lampropeltis getula -> Agkistrodon contortrix,2
+Lamprotornis chalybaeus -> Citharexylum spinosum,2
+Lamprotornis chalybaeus -> Drosera madagascariensis,2
+Lamprotornis chalybaeus -> Filicium decipiens,2
+Lanius collaris -> Duberria lutrix lutrix,2
+Lanius collaris collaris -> Duberria lutrix lutrix,2
+Lanius ludovicianus -> Anolis sagrei,2
+Lanius ludovicianus -> Sceloporus occidentalis,2
+Laphria flavicollis -> Strigoderma pygmaea,2
+Largus succinctus -> Diospyros virginiana,2
+Larinioides cornutus -> Lycorma delicatula,2
+Larus argentatus -> Asterias rubens,2
+Larus argentatus -> Gallinula chloropus,2
+Larus argentatus -> Rattus norvegicus,2
+Larus argentatus -> Taurulus bubalis,2
+Larus argentatus -> Turdus pilaris,2
+Larus brachyrhynchus -> Leptocottus armatus,2
+Larus californicus -> Artemia monica,2
+Larus delawarensis -> Lepomis macrochirus,2
+Larus delawarensis -> Prunus persica,2
+Larus dominicanus -> Arctocephalus forsteri,2
+Larus dominicanus -> Rattus rattus,2
+Larus dominicanus dominicanus -> Rattus rattus,2
+Larus fuscus -> Columba livia,2
+Larus fuscus -> Salmo trutta,2
+Larus glaucescens -> Cancer productus,2
+Larus glaucescens -> Cryptochiton stelleri,2
+Larus glaucescens -> Cucumaria miniata,2
+Larus glaucescens -> Dermasterias imbricata,2
+Larus glaucescens -> Enteroctopus dofleini,2
+Larus glaucescens -> Evasterias troschelii,2
+Larus glaucescens -> Lumpenus sagitta,2
+Larus glaucescens -> Metacarcinus magister,2
+Larus glaucescens -> Oligocottus maculosus,2
+Larus glaucescens -> Oncorhynchus,2
+Larus glaucescens -> Oncorhynchus gorbuscha,2
+Larus glaucescens -> Parophrys vetulus,2
+Larus glaucescens -> Pholis laeta,2
+Larus glaucescens -> Saxidomus gigantea,2
+Larus glaucescens × occidentalis -> Cancer productus,2
+Larus glaucescens × occidentalis -> Clinocardium nuttallii,2
+Larus glaucescens × occidentalis -> Columba livia domestica,2
+Larus glaucescens × occidentalis -> Enophrys bison,2
+Larus glaucescens × occidentalis -> Evasterias troschelii,2
+Larus glaucescens × occidentalis -> Metacarcinus gracilis,2
+Larus glaucescens × occidentalis -> Metacarcinus magister,2
+Larus glaucescens × occidentalis -> Neverita lewisii,2
+Larus glaucescens × occidentalis -> Oncorhynchus kisutch,2
+Larus glaucescens × occidentalis -> Parophrys vetulus,2
+Larus glaucescens × occidentalis -> Pholis ornata,2
+Larus glaucescens × occidentalis -> Pisaster ochraceus,2
+Larus glaucescens × occidentalis -> Platichthys stellatus,2
+Larus glaucescens × occidentalis -> Pugettia gracilis,2
+Larus glaucescens × occidentalis -> Pugettia producta,2
+Larus heermanni -> Emerita analoga,2
+Larus hyperboreus -> Balaenoptera acutorostrata,2
+Larus marinus -> Anguilla anguilla,2
+Larus marinus -> Callinectes sapidus,2
+Larus marinus -> Carcinus maenas,2
+Larus marinus -> Rynchops niger,2
+Larus marinus -> Squalus acanthias,2
+Larus michahellis -> Anguilla anguilla,2
+Larus michahellis -> Columba livia,2
+Larus michahellis -> Streptopelia decaocto,2
+Larus mongolicus -> Carassius auratus,2
+Larus occidentalis -> Romaleon antennarium,2
+Larus occidentalis -> Scorpaenichthys marmoratus,2
+Larus occidentalis -> Sebastes paucispinis,2
+Larus smithsonianus -> Aplodinotus grunniens,2
+Larus smithsonianus -> Brevoortia tyrannus,2
+Larus smithsonianus -> Busycon carica,2
+Larus smithsonianus -> Callinectes sapidus,2
+Larus smithsonianus -> Carcinus maenas,2
+Larus smithsonianus -> Esox lucius,2
+Larus smithsonianus -> Pomoxis nigromaculatus,2
+Latrodectus geometricus -> Hypercompe scribonia,2
+Latrodectus mactans -> Papilio polyxenes,2
+Lepidotrigona terminata -> Mimosa diplotricha,2
+Leptogenys falcigera -> Armadillidium vulgare,2
+Leptoptilos crumenifer -> Crocuta crocuta,2
+Leptosia alcesta -> Senecio tamoides,2
+Leptosia alcesta inalcesta -> Senecio tamoides,2
+Leptotes pirithous -> Croton pseudopulchellus,2
+Leptotes pirithous -> Tridax procumbens,2
+Leucauge argyra -> Syngamia florella,2
+Leucocelis aeneicollis -> Croton pseudopulchellus,2
+Leucocelis aeneicollis -> Syzygium cordatum cordatum,2
+Leucocelis amethystina -> Combretum molle,2
+Leucocelis amethystina -> Drimia altissima,2
+Leucophaeus atricilla -> Callinectes sapidus,2
+Leucophaeus atricilla -> Trinectes maculatus,2
+Leucostrophus alterhirundo -> Hilliardiella elaeagnoides,2
+Libellula luctuosa -> Coleomegilla maculata,2
+Libyaspis wahlbergi -> Bobgunnia madagascariensis,2
+Libythea laius -> Croton pseudopulchellus,2
+Limacus flavus -> Laetiporus gilbertsonii,2
+Limenitis lorquini -> Thamnophis elegans vagrans,2
+Linepithema humile -> Macroglossum stellatarum,2
+Linepithema humile -> Sceloporus occidentalis,2
+Lippia javanica -> Mylothris agathina agathina,2
+Liriomyza -> Lepidium virginicum,2
+Liris aurulentus -> Phonarellus ritsemae,2
+Lon melane -> Cirsium vulgare,2
+Lon taxiles -> Asclepias speciosa,2
+Lontra canadensis -> Cyprinus carpio,2
+Lontra canadensis -> Enophrys bison,2
+Lontra canadensis -> Faxonius deanae,2
+Lontra canadensis -> Hexagrammos decagrammus,2
+Lontra canadensis -> Lepomis macrochirus macrochirus,2
+Lontra canadensis -> Leptocottus armatus,2
+Lontra canadensis -> Urile penicillatus,2
+Lopesia parinarii -> Parinari curatellifolia,2
+Lophodytes cucullatus -> Acanthogobius flavimanus,2
+Lophodytes cucullatus -> Faxonius virilis,2
+Lophodytes cucullatus -> Hemigrapsus nudus,2
+Lophodytes cucullatus -> Leptocottus armatus,2
+Lophodytes cucullatus -> Misgurnus anguillicaudatus,2
+Loxodonta africana -> Adansonia digitata,2
+Loxodonta africana -> Colophospermum mopane,2
+Loxodonta africana -> Cyperus articulatus,2
+Loxodonta africana -> Faidherbia albida,2
+Loxodonta africana -> Hyphaene coriacea,2
+Loxodonta africana -> Phoenix reclinata,2
+Loxodonta africana -> Searsia chirindensis,2
+Loxodonta africana -> Vachellia tortilis heteracantha,2
+Ludia delegorguei -> Distephanus inhacensis,2
+Lybius torquatus -> Centrobolus richardi,2
+Lybius torquatus -> Ficus sur,2
+Lybius torquatus -> Morus nigra,2
+Lybius torquatus torquatus -> Centrobolus richardi,2
+Lybius torquatus torquatus -> Morus nigra,2
+Lycodon rufozonatus -> Amolops wuyiensis,2
+Lycophidion capense -> Mochlus sundevallii,2
+Lynx rufus -> Sciurus carolinensis,2
+Macaria pustularia -> Asclepias syriaca,2
+Macrelaps microlepidotus -> Amblysomus hottentotus,2
+Macroglossum stellatarum -> Saponaria pumila,2
+Macroglossum stellatarum -> Viscaria vulgaris,2
+Macrosiphini -> Solanum nigrum,2
+Macrosporium asimini -> Asimina obovata,2
+Maevia inclemens -> Drosophila repleta,2
+Malpolon monspessulanus -> Zamenis scalaris,2
+Mantis religiosa -> Sympetrum fonscolombii,2
+Marmara arbutiella -> Arbutus menziesii,2
+Marpissa muscosa -> Araniella,2
+Mausoleopsis amabilis -> Dais cotinifolia,2
+Mecaphesa -> Leptoglossus phyllopus,2
+Megaceryle alcyon -> Cymatogaster aggregata,2
+Megaceryle alcyon -> Lepomis macrochirus,2
+Megaceryle torquata -> Hoplias malabaricus,2
+Melaenornis pammelaina -> Morus nigra,2
+Melanerpes lewis -> Bombus griseocollis,2
+Melaniparus niger -> Ficus burkei,2
+Melaniparus niger niger -> Ficus burkei,2
+Melanitta fusca -> Carcinus maenas,2
+Meliscaeva auricollis -> Iris planifolia,2
+Melospiza melodia -> Ligia occidentalis,2
+Menemerus semilimbatus -> Chrysocrambus linetella,2
+Mergus merganser -> Gasterosteus aculeatus,2
+Merops apiaster -> Anax parthenope,2
+Merops apiaster -> Vanessa atalanta,2
+Merops persicus -> Anax imperator,2
+Merops persicus -> Oxypleura lenihani,2
+Merops persicus persicus -> Anax imperator,2
+Merops persicus persicus -> Oxypleura lenihani,2
+Mesotriton alpestris -> Epinotia tedella,2
+Messor barbarus -> Pomatias elegans,2
+Micrathene whitneyi -> Scudderia mexicana,2
+Microhierax fringillarius -> Cephonodes hylas,2
+Micronisus gabar -> Spilopelia senegalensis,2
+Micronisus gabar gabar -> Spilopelia senegalensis,2
+Mikronegeria fagi -> Nothofagus obliqua,2
+Milvus migrans -> Pachylomera femoralis,2
+Milvus migrans parasitus -> Pachylomera femoralis,2
+Miotopus diversus -> Peripatoides novaezealandiae,2
+Misumena vatia -> Apis mellifera,2
+Misumena vatia -> Bombus,2
+Misumena vatia -> Bombus flavifrons,2
+Misumena vatia -> Clastoptera obtusa,2
+Misumena vatia -> Pyrrhosoma nymphula,2
+Misumena vatia -> Toxomerus geminatus,2
+Misumena vatia -> Xylocopa virginica virginica,2
+Misumenini -> Cecropterus dorantes dorantes,2
+Misumenini -> Zadontomerus,2
+Misumenoides -> Asemosyrphus arquatus,2
+Misumenoides formosipes -> Apis mellifera,2
+Morelia spilota -> Pseudocheirus peregrinus,2
+Morelia spilota mcdowelli -> Pseudocheirus peregrinus,2
+Mus musculus -> Pachyptila vittata,2
+Mustela richardsonii -> Rattus norvegicus,2
+Mycocentrospora asiminae -> Asimina triloba,2
+Myiarchus crinitus -> Acanthocephala terminalis,2
+Myiarchus crinitus -> Promachus rufipes,2
+Myiopsitta monachus -> Nicotiana glauca,2
+Mylothris agathina -> Dais cotinifolia,2
+Mylothris agathina -> Distephanus angulifolius,2
+Mylothris agathina -> Globimetula mweroensis,2
+Mylothris agathina agathina -> Chromolaena odorata,2
+Mylothris agathina agathina -> Dais cotinifolia,2
+Mylothris agathina agathina -> Distephanus angulifolius,2
+Mylothris agathina agathina -> Globimetula mweroensis,2
+Mylothris agathina agathina -> Lippia javanica,2
+Naja nivea -> Bitis arietans,2
+Naja subfulva -> Python natalensis,2
+Nannopterum auritum -> Ameiurus nebulosus,2
+Nannopterum auritum -> Anguilla rostrata,2
+Nannopterum auritum -> Atherinopsis californiensis,2
+Nannopterum auritum -> Ictalurus punctatus,2
+Nannopterum auritum -> Lepisosteus osseus,2
+Nannopterum auritum -> Triakis semifasciata,2
+Nannopterum brasilianum -> Rhamdia guatemalensis,2
+Natrix helvetica -> Bufo bufo,2
+Natrix helvetica -> Pelophylax lessonae,2
+Natrix helvetica -> Triturus carnifex,2
+Natrix maura -> Lepomis gibbosus,2
+Natrix natrix -> Rana temporaria,2
+Natrix tessellata -> Neogobius melanostomus,2
+Necrophila americana -> Microtus drummondii,2
+Necrophila americana -> Sciurus carolinensis,2
+Necrosyrtes monachus -> Aepyceros melampus melampus,2
+Necrosyrtes monachus -> Hippopotamus amphibius,2
+Necrosyrtes monachus -> Lycaon pictus pictus,2
+Necrosyrtes monachus -> Panthera leo melanochaita,2
+Neodiprion lecontei -> Pinus palustris,2
+Neogale vison -> Anas platyrhynchos,2
+Neogale vison -> Nannopterum auritum,2
+Neogale vison -> Necturus maculosus,2
+Neogale vison -> Neogobius melanostomus,2
+Neoitamus flavofemoratus -> Blepharomastix ranalis,2
+Neoscona arabesca -> Calopteryx maculata,2
+Neoscona crucifera -> Oebalus pugnax,2
+Neoscona crucifera -> Tachycines asynamorus,2
+Neoscona oaxacensis -> Vespula pensylvanica,2
+Neotamias speciosus -> Alaus melanops,2
+Nepheronia buquetii -> Barleria elegans orientalis,2
+Nepheronia buquetii buquetii -> Barleria elegans orientalis,2
+Nepheronia thalassina -> Zinnia peruviana,2
+Nepheronia thalassina sinalata -> Zinnia peruviana,2
+Nerodia rhombifer -> Ameiurus natalis,2
+Nerodia rhombifer -> Ictalurus punctatus,2
+Nerodia sipedon -> Anaxyrus americanus,2
+Nerodia sipedon -> Cottus bairdii,2
+Nesticodes rufipes -> Camponotus atriceps,2
+Nesticodes rufipes -> Membracis mimica,2
+Nettapus auritus -> Nymphaea nouchali,2
+Nettapus auritus -> Nymphaea nouchali caerulea,2
+Nicrophorus marginatus -> Otospermophilus beecheyi,2
+Nicrophorus tomentosus -> Microtus drummondii,2
+Nicrophorus vespilloides -> Anguis fragilis,2
+Nigma walckenaeri -> Melanostoma,2
+Ninox novaeseelandiae -> Todiramphus sanctus vagans,2
+Ninox novaeseelandiae novaeseelandiae -> Todiramphus sanctus vagans,2
+Notechis scutatus -> Salmo trutta,2
+Notopholia corusca -> Hyperolius marmoratus verrucosus,2
+Nototettigometra patruelis -> Berkheya bipinnatifida,2
+Nuctenea umbratica -> Endomychus coccineus,2
+Numenius americanus -> Emerita analoga,2
+Nyctanassa violacea -> Minuca pugnax,2
+Nyctanassa violacea -> Procambarus clarkii,2
+Nycticorax nycticorax -> Xenopus laevis,2
+Ochlodes sylvanoides -> Anchusa officinalis,2
+Ochlodes sylvanus -> Vicia cracca,2
+Octopus tetricus -> Monacanthus chinensis,2
+Odontocorynus salebrosus -> Leucanthemum vulgare,2
+Oiceoptoma inaequale -> Didelphis virginiana,2
+Oiceoptoma inaequale -> Lithobates palustris,2
+Olenecamptus albidus -> Ficus burtt-davyi,2
+Oligia fasciuncula -> Cirsium arvense,2
+Omphalocera munroei -> Asimina incana,2
+Omphalocera munroei -> Asimina obovata,2
+Omphalocera munroei -> Asimina parviflora,2
+Omphalocera munroei -> Asimina pygmaea,2
+Omphalocera munroei -> Asimina reticulata,2
+Omphalocera munroei -> Asimina triloba,2
+Ondatra zibethicus -> Corbicula fluminea,2
+Ophiocordyceps humbertii -> Polistes dominula,2
+Oplostomus fuligineus -> Ropalidia nobilis,2
+Opuntiaspis philococcus -> Opuntia streptacantha,2
+Oriolus chinensis -> Sterculia parviflora,2
+Orthetrum stemmale -> Apis mellifera scutellata,2
+Orygocera thysanarcha -> Euclea natalensis,2
+Otospermophilus beecheyi -> Quercus lobata,2
+Otospermophilus douglasii -> Daucus carota,2
+Oxythyrea marginalis -> Berkheya umbellata,2
+Pachnodella impressa -> Pilostyles aethiopica,2
+Pachylomera femoralis -> Aepyceros melampus melampus,2
+Pachypsylla venusta -> Celtis laevigata,2
+Palpada alhambra -> Baccharis pilularis,2
+Paltothyreus tarsatus -> Proagoderus dives,2
+Pandion haliaetus -> Abramis brama,2
+Pandion haliaetus -> Ameiurus nebulosus,2
+Pandion haliaetus -> Brevoortia tyrannus,2
+Pandion haliaetus -> Cyprinus carpio,2
+Pandion haliaetus -> Dorosoma cepedianum,2
+Pandion haliaetus -> Esox lucius,2
+Pandion haliaetus -> Hypsypops rubicundus,2
+Pandion haliaetus -> Lepomis,2
+Pandion haliaetus -> Lepomis gibbosus,2
+Pandion haliaetus -> Lepomis macrochirus,2
+Pandion haliaetus -> Menticirrhus littoralis,2
+Pandion haliaetus -> Oncorhynchus,2
+Pandion haliaetus -> Perca flavescens,2
+Pandion haliaetus -> Pomoxis nigromaculatus,2
+Pandion haliaetus carolinensis -> Lepomis macrochirus,2
+Panorpa vulgaris -> Phymatocera aterrima,2
+Panthera leo -> Connochaetes taurinus mearnsi,2
+Panthera leo -> Hippotragus niger niger,2
+Panthera leo -> Syncerus caffer caffer,2
+Panthera leo melanochaita -> Connochaetes taurinus mearnsi,2
+Panthera leo melanochaita -> Hippotragus niger niger,2
+Panthera leo melanochaita -> Syncerus caffer caffer,2
+Panthera pardus -> Aepyceros melampus,2
+Panthera pardus pardus -> Aepyceros melampus,2
+Pantherophis alleghaniensis -> Sylvilagus floridanus,2
+Pantherophis spiloides -> Hirundo rustica,2
+Pantherophis spiloides -> Strix varia,2
+Papilio dardanus -> Asystasia intrusa,2
+Papilio dardanus cenea -> Asystasia intrusa,2
+Papilio demodocus -> Catharanthus roseus,2
+Papilio demodocus -> Glandularia aristigera,2
+Papilio demodocus -> Pavetta cataractarum,2
+Papilio demodocus -> Vepris lanceolata,2
+Papilio demodocus demodocus -> Catharanthus roseus,2
+Papilio demodocus demodocus -> Glandularia aristigera,2
+Papilio demodocus demodocus -> Pavetta cataractarum,2
+Papilio demodocus demodocus -> Vepris lanceolata,2
+Papilio glaucus -> Eutrochium fistulosum,2
+Papilio multicaudata -> Cirsium vulgare,2
+Papilio multicaudata multicaudata -> Cirsium vulgare,2
+Papilio nireus -> Clausena anisata,2
+Papilio nireus -> Combretum paniculatum,2
+Papilio nireus lyaeus -> Clausena anisata,2
+Papilio rutulus -> Asclepias speciosa,2
+Papilio rutulus -> Iris missouriensis,2
+Papio ursinus -> Ficus bussei,2
+Papio ursinus -> Sporobolus pyramidalis,2
+Papio ursinus griseipes -> Ficus bussei,2
+Papio ursinus griseipes -> Sporobolus pyramidalis,2
+Paragus haemorrhous -> Hirschfeldia incana,2
+Parakontikia ventrolineata -> Testacella maugei,2
+Paramecops stapeliae -> Stapelia gigantea,2
+Parapoderus submarginatus -> Syzygium cordatum cordatum,2
+Parasteatoda tepidariorum -> Acronicta rumicis,2
+Parasteatoda tepidariorum -> Maladera formosae,2
+Paraxerus palliatus -> Arachis hypogaea,2
+Paraxerus palliatus tongensis -> Arachis hypogaea,2
+Parkesia motacilla -> Nigronia serricornis,2
+Parkesia noveboracensis -> Hermetia illucens,2
+Passer domesticus -> Magicicada cassinii,2
+Passer domesticus -> Mantis religiosa,2
+Pelecanus occidentalis -> Cynoscion nebulosus,2
+Pelopidas thrax -> Stachytarpheta jamaicensis,2
+Pentaglottis sempervirens -> Bunaea alcinoe,2
+Petascelis remipes -> Combretum molle,2
+Petovia marginata -> Vangueria madagascariensis,2
+Peucetia viridans -> Apis mellifera,2
+Peucetia viridans -> Bombus impatiens,2
+Peucetia viridans -> Condylostylus mundus,2
+Peucetia viridans -> Dione vanillae,2
+Peucetia viridans -> Vespula squamosa,2
+Phaenicophaeus tristis -> Rhombodera basalis,2
+Phaenicophaeus tristis longicaudatus -> Rhombodera basalis,2
+Phalacrocorax carbo -> Anguilla anguilla,2
+Phalacrocorax carbo -> Esox lucius,2
+Phalacrocorax carbo -> Rutilus rutilus,2
+Phalacrocorax carbo -> Silurus glanis,2
+Phalacrocorax varius -> Rhombosolea plebeia,2
+Phalacrocorax varius varius -> Rhombosolea plebeia,2
+Phalanta eurytis -> Tetraselago natalensis,2
+Phalanta phalantha -> Oncoba spinosa,2
+Phalanta phalantha aethiopica -> Oncoba spinosa,2
+Pheidole megacephala -> Hemidactylus mabouia,2
+Pheidole megacephala -> Hyperolius pusillus,2
+Pheidole megacephala -> Platypleura argentata,2
+Pheidole obscurithorax -> Euborellia annulipes,2
+Pheidole pallidula -> Gryllus bimaculatus,2
+Pheucticus ludovicianus -> Leptoglossus oppositus,2
+Phidippus audax -> Acronicta interrupta,2
+Phidippus audax -> Anaea andria,2
+Phidippus audax -> Malacosoma disstria,2
+Phidippus audax -> Pachydiplax longipennis,2
+Phidippus audax -> Stomoxys calcitrans,2
+Phidippus clarus -> Toxomerus marginatus,2
+Phidippus putnami -> Pachydiplax longipennis,2
+Phidippus regius -> Orphulella pelidna,2
+Philanthus -> Distephanus angulifolius,2
+Philodryas nattereri -> Tropidurus hispidus,2
+Philothamnus angolensis -> Amietia delalandii,2
+Philothamnus semivariegatus -> Chiromantis xerampelina,2
+Phoca vitulina -> Cymatogaster aggregata,2
+Phoca vitulina -> Oncorhynchus gorbuscha,2
+Phoca vitulina richardii -> Cymatogaster aggregata,2
+Pholcus phalangioides -> Forficula dentata,2
+Pholcus phalangioides -> Tegenaria domestica,2
+Phoradendron leucarpum -> Diospyros virginiana,2
+Phyllocnistis liquidambarisella -> Liquidambar styraciflua,2
+Phyllocnistis vitifoliella -> Vitis vulpina,2
+Phylloporia amplectens -> Asimina parviflora,2
+Phylloporia amplectens -> Asimina reticulata,2
+Phyllosticta asiminae -> Asimina angustifolia,2
+Phyllosticta asiminae -> Asimina obovata,2
+Phyllosticta asiminae -> Asimina parviflora,2
+Phyllosticta asiminae -> Asimina triloba,2
+Phyllosticta asiminae -> Asimina × piedmontana,2
+Phymata fasciata -> Hylephila phyleus,2
+Phytoliriomyza melampyga -> Impatiens parviflora,2
+Phytomia erratica -> Waltheria indica,2
+Phytomia zonata -> Bidens alba,2
+Phytomyza ilicis -> Ilex aquifolium,2
+Phytomyza tiarellae -> Tolmiea menziesii,2
+Pica hudsonia -> Columba livia domestica,2
+Pica hudsonia -> Cornus sericea,2
+Pica hudsonia -> Rattus norvegicus,2
+Pica hudsonia -> Tamiasciurus hudsonicus,2
+Pica pica -> Rattus norvegicus,2
+Pieris brassicae -> Tropaeolum majus,2
+Pieris napi -> Allium ursinum,2
+Pieris napi -> Hyacinthoides non-scripta,2
+Pieris rapae -> Cirsium arvense,2
+Pieris rapae -> Dittrichia graveolens,2
+Pieris rapae -> Taraxacum officinale,2
+Pilostyles aethiopica -> Julbernardia globiflora,2
+Piranga olivacea -> Acanthocephala terminalis,2
+Piranga olivacea -> Vespa crabro,2
+Piranga olivacea -> Vespula maculifrons,2
+Pisaster ochraceus -> Cancer productus,2
+Pisaster ochraceus -> Mytilus californianus,2
+Pisaster ochraceus -> Strongylocentrotus purpuratus,2
+Pitangus sulphuratus -> Hemidactylus frenatus,2
+Plagiostenopterina submetallica -> Equus quagga burchellii,2
+Plagiosterna nigritarsis -> Xylotheca kraussiana,2
+Platycryptus undatus -> Tampa dimediatella,2
+Plecia nearctica -> Asimina angustifolia,2
+Plectropterus gambensis -> Cyperus polystachyos polystachyos,2
+Plectropterus gambensis niger -> Cyperus polystachyos polystachyos,2
+Ploceus cucullatus -> Ficus burkei,2
+Ploceus cucullatus spilonotus -> Ficus burkei,2
+Podarcis siculus -> Tandonia sowerbyi,2
+Podiceps cristatus -> Pelophylax perezi,2
+Podiceps cristatus -> Perca fluviatilis,2
+Podiceps cristatus -> Silurus glanis,2
+Podiceps nigricollis -> Syngnathus californiensis,2
+Podilymbus podiceps -> Ameiurus nebulosus,2
+Podilymbus podiceps -> Lepomis,2
+Podilymbus podiceps -> Lithobates catesbeianus,2
+Podilymbus podiceps -> Misgurnus anguillicaudatus,2
+Podilymbus podiceps -> Perca flavescens,2
+Podilymbus podiceps -> Procambarus clarkii,2
+Poecile carolinensis -> Diospyros virginiana,2
+Pogoniulus bilineatus -> Trema orientale,2
+Pogoniulus bilineatus bilineatus -> Trema orientale,2
+Poicephalus meyeri -> Ficus bussei,2
+Polistes bellicosus -> Libellula needhami,2
+Polistes dominula -> Cirsium arvense,2
+Polistes major -> Dione vanillae,2
+Polistes metricus -> Malacosoma disstria,2
+Polyrhachis schistacea -> Abrus laevigatus,2
+Polyrhachis schistacea -> Eulophia speciosa,2
+Popillia bipunctata -> Eriosema psoraleoides,2
+Proagoderus aciculatus -> Equus quagga burchellii,2
+Proagoderus aureiceps -> Equus quagga burchellii,2
+Proctacanthus brevipennis -> Myzinum obscurum,2
+Proctacanthus brevipennis -> Phyllomydas parvulus,2
+Procyon lotor -> Diospyros virginiana,2
+Progne subis -> Danaus plexippus,2
+Promachus hinei -> Erythemis simplicicollis,2
+Promachus hinei -> Phyciodes tharos,2
+Promachus rufipes -> Vespula,2
+Prophyllocnistis epidrimys -> Drimys winteri,2
+Prophysaon andersonii -> Stereum ochraceoflavum,2
+Prostheceraeus crozieri -> Ecteinascidia turbinata,2
+Protaetia morio -> Onopordum macracanthum,2
+Protogoniomorpha nebulosa -> Croton pseudopulchellus,2
+Pseudacraea lucretia -> Englerophytum magalismontanum,2
+Pseudacysta perseae -> Persea americana,2
+Pseudanaphaeis gidica -> Justicia flava,2
+Pseudanaphaeis gidica abyssinica -> Justicia flava,2
+Pseudaulacaspis cockerelli -> Asimina parviflora,2
+Pseudocercospora fuliginosa -> Diospyros virginiana,2
+Pseudolynchia canariensis -> Spilopelia senegalensis,2
+Psittacula alexandri -> Xanthostemon chrysanthus,2
+Psittacula krameri -> Malus domestica,2
+Ptenothrix maculosa -> Ascocoryne sarcoides,2
+Pterophanes cyanopterus -> Siphocampylus lucidus,2
+Pycnonotus barbatus -> Atrichiana placida,2
+Pycnonotus barbatus -> Citharexylum spinosum,2
+Pycnonotus barbatus -> Ficus burkei,2
+Pycnonotus barbatus -> Ficus sycomorus sycomorus,2
+Pycnonotus barbatus -> Filicium decipiens,2
+Pycnonotus barbatus -> Scutia myrtina,2
+Pycnonotus barbatus -> Zonocerus elegans elegans,2
+Pycnonotus barbatus layardi -> Atrichiana placida,2
+Pycnonotus barbatus layardi -> Citharexylum spinosum,2
+Pycnonotus barbatus layardi -> Ficus burkei,2
+Pycnonotus barbatus layardi -> Ficus sycomorus sycomorus,2
+Pycnonotus barbatus layardi -> Filicium decipiens,2
+Pycnonotus barbatus layardi -> Scutia myrtina,2
+Pycnonotus barbatus layardi -> Zonocerus elegans elegans,2
+Pycnonotus capensis -> Locris arithmetica,2
+Pycnonotus goiavier -> Lagerstroemia speciosa,2
+Pyrrhalta viburni -> Viburnum recognitum,2
+Pyrrhula pyrrhula -> Viburnum opulus,2
+Quadrastichus ingens -> Erythrina latissima,2
+Quiscalus quiscula -> Cotinis nitida,2
+Quiscalus quiscula -> Lithobates pipiens,2
+Quiscalus quiscula -> Passer domesticus,2
+Rhabdophis chrysargos -> Kalophrynus meizon,2
+Rhabdophis helleri -> Duttaphrynus melanostictus,2
+Rhagonycha fulva -> Armeria maritima,2
+Rhagonycha fulva -> Cirsium arvense,2
+Rhipidura javanica -> Orthetrum sabina,2
+Rhipidura javanica -> Pantala flavescens,2
+Rhipidura javanica -> Rhyothemis variegata phyllis,2
+Rhipidura javanica longicauda -> Orthetrum sabina,2
+Rhipidura javanica longicauda -> Pantala flavescens,2
+Rhipidura leucophrys -> Eristalis tenax,2
+Rhopalosiphum nymphaeae -> Spirodela polyrhiza,2
+Rhytisma acerinum -> Acer pseudoplatanus,2
+Rubraea petraea -> Xylotheca kraussiana,2
+Rubus rigidus -> Gymnosporia glaucophylla,2
+Rumina decollata -> Ecballium elaterium,2
+Rynchops niger -> Atherinops affinis,2
+Saga pedo -> Aporia crataegi,2
+Salmo trutta -> Cottus gobio,2
+Salticus scenicus -> Atomosia puella,2
+Salticus scenicus -> Nephrotoma ferruginea,2
+Saxicola torquatus -> Estigmene trivitta,2
+Saxicola torquatus torquatus -> Estigmene trivitta,2
+Sayornis nigricans -> Erythemis collocata,2
+Sceliphron javanum -> Poltys idae,2
+Schinia pulchripennis -> Erodium botrys,2
+Sciurus carolinensis -> Callicarpa americana,2
+Sciurus carolinensis -> Coprinopsis lagopus,2
+Sciurus carolinensis -> Odocoileus virginianus,2
+Sciurus carolinensis -> Taraxacum,2
+Sciurus vulgaris -> Juglans regia,2
+Sciurus vulgaris -> Prunus amygdalus,2
+Scolopendra dehaani -> Hypsiscopus murphyi,2
+Scopus umbretta -> Chiromantis xerampelina,2
+Scopus umbretta umbretta -> Chiromantis xerampelina,2
+Scotopsinus verrucifer -> Brachylaena discolor,2
+Scutigera coleoptrata -> Lycorma delicatula,2
+Scymnus -> Aphis gossypii,2
+Selasphorus platycercus -> Hyles lineata,2
+Selasphorus platycercus -> Monarda fistulosa,2
+Sevenia boisduvali -> Sclerocroton integerrimus,2
+Sevenia boisduvali boisduvali -> Sclerocroton integerrimus,2
+Sialia sialis -> Celastrus orbiculatus,2
+Sialia sialis -> Rhus copallinum,2
+Sialia sialis -> Rhus typhina,2
+Sialia sialis -> Smilax walteri,2
+Sigmodon hispidus -> Callicarpa americana,2
+Sitta carolinensis -> Vanessa atalanta,2
+Solenopsis invicta -> Kinosternon baurii,2
+Solidago velutina -> Bombus bifarius,2
+Somateria mollissima -> Carcinus maenas,2
+Somateria mollissima -> Echinus esculentus,2
+Spermestes bicolor -> Brachylaena discolor,2
+Spermestes bicolor nigriceps -> Brachylaena discolor,2
+Spermestes cucullata -> Erythrina afra,2
+Spermestes cucullata scutata -> Erythrina afra,2
+Sphaerocoris testudogrisea -> Blepharis sericea,2
+Sphaerocoris testudogrisea -> Gomphocarpus physocarpus,2
+Sphaerocoris testudogrisea -> Ocimum gratissimum gratissimum,2
+Sphecius speciosus -> Echinocystis lobata,2
+Sphex nudus -> Camptonotus carolinensis,2
+Sphex pensylvanicus -> Monarda punctata,2
+Sphinx chersis -> Geococcyx californianus,2
+Sphyrapicus ruber -> Umbellularia californica,2
+Sphyrapicus varius -> Asimina triloba,2
+Sphyrapicus varius -> Diospyros virginiana,2
+Spilornis holospilus -> Chrysopelea paradisi,2
+Spilosoma virginica -> Pluchea camphorata,2
+Spilostethus macilentus -> Elytraria acaulis,2
+Spilostethus pandurus -> Calotropis procera,2
+Spilostethus pandurus -> Drimia altissima,2
+Spilostethus pandurus -> Gomphocarpus tomentosus,2
+Spilostethus pandurus elegans -> Drimia altissima,2
+Spilostethus pandurus elegans -> Gomphocarpus tomentosus,2
+Spinus psaltria -> Cichorium intybus,2
+Spinus psaltria -> Lactuca serriola,2
+Spinus psaltria -> Madia elegans,2
+Spinus tristis -> Cirsium vulgare,2
+Spinus tristis tristis -> Tamiasciurus hudsonicus,2
+Spodoptera picta -> Senecio madagascariensis,2
+Stactolaema leucotis -> Ficus burkei,2
+Stactolaema leucotis -> Ficus burtt-davyi,2
+Stactolaema leucotis -> Ficus lutea,2
+Stactolaema leucotis leucotis -> Ficus burkei,2
+Stactolaema leucotis leucotis -> Ficus burtt-davyi,2
+Stactolaema leucotis leucotis -> Ficus lutea,2
+Stactolaema whytii -> Diospyros lycioides sericea,2
+Stactolaema whytii -> Ficus burkei,2
+Stactolaema whytii -> Ficus sur,2
+Stactolaema whytii -> Filicium decipiens,2
+Stactolaema whytii -> Pyracantha angustifolia,2
+Stagmomantis carolina -> Lycorma delicatula,2
+Stagmomantis carolina -> Melanoplus keeleri,2
+Steatoda borealis -> Acanalonia conica,2
+Steatoda borealis -> Aeolus mellillus,2
+Steatoda grossa -> Phyllophaga,2
+Steatoda nobilis -> Vespula vulgaris,2
+Steatoda triangulosa -> Acanalonia conica,2
+Steatoda triangulosa -> Armadillidium arcangelii,2
+Steatoda triangulosa -> Armadillidium vulgare,2
+Steatoda triangulosa -> Chrysis angolensis,2
+Steatoda triangulosa -> Meromacrus acutus,2
+Steatoda triangulosa -> Sphaeropthalma pensylvanica,2
+Stegodyphus dumicola -> Meranoplus inermis,2
+Stegodyphus dumicola -> Pontia helice,2
+Stephenia natalica -> Tetraselago natalensis,2
+Sterna forsteri -> Fundulus heteroclitus,2
+Sterna hirundo -> Emerita talpoida,2
+Sterna hirundo -> Salariinae,2
+Sterna hirundo -> Syngnathus fuscus,2
+Sternula albifrons -> Trichopsis vittata,2
+Sternula albifrons sinensis -> Trichopsis vittata,2
+Sternula antillarum -> Fundulus,2
+Stilpnia larvata -> Miconia dodecandra,2
+Strangalia luteicornis -> Actaea racemosa,2
+Strepera graculina -> Clemacantha goliath,2
+Strix varia -> Tamiasciurus hudsonicus,2
+Strix varia -> Thamnophis sirtalis concinnus,2
+Strymon melinus -> Ericameria nauseosa,2
+Stugeta bowkeri -> Combretum microphyllum,2
+Sturnus vulgaris -> Podarcis muralis,2
+Sula leucogaster -> Hemiramphus brasiliensis,2
+Sus scrofa -> Juglans regia,2
+Sylvilagus bachmani -> Helminthotheca echioides,2
+Synema imitatrix -> Apis mellifera capensis,2
+Syrphini -> Uroleucon,2
+Syzygium cordatum -> Parapoderus submarginatus,2
+Tachybaptus ruficollis -> Hylambates maculatus,2
+Tachybaptus ruficollis -> Lissotriton vulgaris,2
+Tachybaptus ruficollis capensis -> Hylambates maculatus,2
+Tachycines asynamorus -> Neoscona crucifera,2
+Tachypompilus ferrugineus -> Tigrosa helluo,2
+Tagiades flesus -> Malvastrum coromandelianum,2
+Tagoropsis flavinata -> Allophylus natalensis,2
+Tamiasciurus hudsonicus -> Acer saccharinum,2
+Tamiasciurus hudsonicus -> Juglans nigra,2
+Tamiasciurus hudsonicus -> Turdus migratorius,2
+Tanaostigmodes tambotis -> Spirostachys africana,2
+Tangara florida -> Miconia dodecandra,2
+Tapinanthus forbesii -> Peltophorum africanum,2
+Tapinoma melanocephalum -> Menemerus bivittatus,2
+Tarentola mauritanica -> Earias insulana,2
+Tarentola mauritanica -> Periplaneta americana,2
+Telamonia dimidiata -> Pochazia sinuata,2
+Telchinia burni -> Obetia tenax,2
+Telchinia serena -> Chromolaena odorata,2
+Telchinia serena -> Mikania natalensis,2
+Telchinia serena -> Senecio polyanthemoides,2
+Telchinia serena -> Sida cordifolia cordifolia,2
+Telchinia serena -> Tridax procumbens,2
+Telchinia serena -> Waltheria indica,2
+Tenodera angustipennis -> Bombus impatiens,2
+Tenodera sinensis -> Hemaris diffinis,2
+Terrapene carolina -> Chicobolus spinigerus,2
+Terrapene carolina bauri -> Chicobolus spinigerus,2
+Tetragnatha -> Hetaerina americana,2
+Tetragonilla collina -> Mimosa diplotricha,2
+Tetramorium immigrans -> Forficula dentata,2
+Tetramorium immigrans -> Hylocichla mustelina,2
+Tetramorium immigrans -> Porcellio scaber,2
+Tetramorium immigrans -> Taraxacum officinale,2
+Tetramorium immigrans -> Vespula maculifrons,2
+Tetraopes tetrophthalmus -> Asclepias syriaca,2
+Thalasseus elegans -> Engraulis mordax,2
+Thamnophis couchii -> Lepomis cyanellus,2
+Thamnophis couchii -> Ptychocheilus grandis,2
+Thamnophis marcianus -> Incilius nebulifer,2
+Thamnophis ordinoides -> Ariolimax columbianus,2
+Thamnophis proximus -> Lithobates clamitans,2
+Thamnophis proximus -> Lithobates sphenocephalus,2
+Thamnophis sirtalis -> Anaxyrus americanus,2
+Thamnophis sirtalis -> Anaxyrus americanus americanus,2
+Thamnophis sirtalis -> Lithobates palustris,2
+Thamnophis sirtalis -> Lithobates sylvaticus,2
+Thamnophis sirtalis sirtalis -> Anaxyrus americanus americanus,2
+Thamnophis sirtalis sirtalis -> Lithobates sylvaticus,2
+Thomisus kalaharinus -> Apis mellifera scutellata,2
+Thomisus onustus -> Cacyreus marshalli,2
+Thomisus onustus -> Dasyscolia ciliata,2
+Thomisus stenningi -> Apis mellifera scutellata,2
+Tigrisoma lineatum -> Pterygoplichthys ambrosettii,2
+Toxomerus geminatus -> Actaea racemosa,2
+Toxomerus marginatus -> Anemone berlandieri,2
+Toxomerus marginatus -> Capsella bursa-pastoris,2
+Toxomerus marginatus -> Cichorium intybus,2
+Toxomerus marginatus -> Commelina erecta,2
+Toxomerus marginatus -> Convolvulus arvensis,2
+Toxomerus marginatus -> Plantago lanceolata,2
+Toxomerus marginatus -> Rudbeckia hirta,2
+Toxomerus marginatus -> Taraxacum officinale,2
+Toxomerus marginatus -> Verbesina encelioides,2
+Toxophora coeruleiventris -> Ozoroa obovata obovata,2
+Toxostoma redivivum -> Frangula californica,2
+Trachylepis striata -> Acanthocercus atricollis,2
+Trachyphonus vaillantii -> Ficus burkei,2
+Trachyphonus vaillantii -> Ficus sur,2
+Trachyphonus vaillantii -> Phymateus viridipes,2
+Trachyphonus vaillantii vaillantii -> Ficus burkei,2
+Tragelaphus strepsiceros -> Sclerocroton integerrimus,2
+Tragelaphus strepsiceros -> Ziziphus mucronata,2
+Tragelaphus strepsiceros strepsiceros -> Sclerocroton integerrimus,2
+Tragelaphus strepsiceros strepsiceros -> Ziziphus mucronata,2
+Traminda neptunaria -> Vachellia kosiensis,2
+Treron calvus -> Ficus bussei,2
+Treron calvus -> Ficus sycomorus sycomorus,2
+Treron calvus delalandii -> Ficus sycomorus sycomorus,2
+Trichodes ornatus -> Achillea millefolium,2
+Trichodes ornatus -> Calochortus excavatus,2
+Trichodes ornatus -> Eriogonum ovalifolium purpureum,2
+Trichodes ornatus -> Rubus deliciosus,2
+Trichonephila clavata -> Apis mellifera,2
+Trichonephila clavata -> Vespula maculifrons,2
+Trichonephila fenestrata -> Quintilia carinata,2
+Trichonephila fenestrata fenestrata -> Quintilia carinata,2
+Trigonoceps occipitalis -> Panthera leo melanochaita,2
+Trigonopeltastes delta -> Asimina × nashii,2
+Trimeresurus vogeli -> Rhacophorus robertingeri,2
+Trinectes maculatus -> Leucophaeus atricilla,2
+Tringa melanoleuca -> Gasterosteus aculeatus,2
+Tringa semipalmata -> Emerita analoga,2
+Tringa semipalmata inornata -> Emerita analoga,2
+Triplofusus giganteus -> Busycon carica,2
+Turdoides jardineii -> Aspidimorpha angolensis,2
+Turdus migratorius -> Ilex vomitoria,2
+Turdus migratorius -> Mantis religiosa,2
+Turdus migratorius -> Prunus virginiana,2
+Turdus migratorius -> Rhamnus cathartica,2
+Turdus philomelos -> Cornu aspersum,2
+Turdus viscivorus -> Viscum album,2
+Typocerus velutinus -> Daucus carota,2
+Typocerus zebra -> Ceanothus americanus,2
+Typocerus zebra -> Marshallia caespitosa,2
+Typocerus zebra -> Oenothera speciosa,2
+Tyria jacobaeae -> Jacobaea vulgaris,2
+Tyto alba -> Chrysochloris asiatica,2
+Tyto alba -> Gerbilliscus afer,2
+Tyto alba poensis -> Chrysochloris asiatica,2
+Tyto alba poensis -> Gerbilliscus afer,2
+Upupa epops -> Scolopendra cingulata,2
+Uresiphita reversalis -> Lupinus ocalensis,2
+Urile penicillatus -> Gibbonsia metzi,2
+Urocissa erythroryncha -> Duttaphrynus melanostictus,2
+Urocissa erythroryncha -> Oligodon taeniatus,2
+Urocissa erythroryncha magnirostris -> Duttaphrynus melanostictus,2
+Urocissa erythroryncha magnirostris -> Oligodon taeniatus,2
+Urocolius indicus -> Ficus burkei,2
+Urocolius indicus -> Ficus sur,2
+Urocolius indicus transvaalensis -> Ficus sur,2
+Uroleucon -> Bidens pilosa,2
+Ursus americanus -> Diospyros virginiana,2
+Ursus americanus -> Odocoileus hemionus columbianus,2
+Urticina columbiana -> Mola mola,2
+Usta terpsichore -> Ozoroa obovata obovata,2
+Utetheisa pulchella -> Senecio tamoides,2
+Valgus canaliculatus -> Diospyros virginiana,2
+Vanessa atalanta -> Achillea millefolium,2
+Vanessa atalanta -> Prunus virginiana,2
+Vanessa cardui -> Berkheya bipinnatifida,2
+Vanessa cardui -> Cirsium arvense,2
+Vanessa cardui -> Lamium amplexicaule,2
+Vanessa cardui -> Solenostemma oleifolium,2
+Vanessa cardui -> Tetraselago natalensis,2
+Varanus niloticus -> Alopochen aegyptiaca,2
+Vespa crabro -> Promachus hinei,2
+Vespula -> Nadata gibbosa,2
+Vespula atropilosa -> Prunus americana,2
+Vespula flavopilosa -> Baeolophus bicolor,2
+Vespula germanica -> Carduelis carduelis,2
+Vespula germanica -> Mimas tiliae,2
+Vespula germanica -> Oedipoda caerulescens,2
+Vespula germanica -> Podarcis muralis,2
+Vespula germanica -> Procambarus clarkii,2
+Vespula germanica -> Tarentola mauritanica,2
+Vespula germanica -> Utetheisa pulchella,2
+Vespula maculifrons -> Didelphis virginiana,2
+Vespula maculifrons -> Neotibicen lyricen engelhardti,2
+Vespula pensylvanica -> Apis mellifera,2
+Vespula pensylvanica -> Rattus rattus,2
+Vespula squamosa -> Schizura ipomaeae,2
+Vipera aspis -> Parus major,2
+Vipera aspis -> Podarcis muralis,2
+Vipera aspis francisciredi -> Parus major,2
+Vipera aspis francisciredi -> Podarcis muralis,2
+Vulpes vulpes -> Lepus timidus,2
+Vulpes vulpes -> Meleagris gallopavo,2
+Vulpes vulpes -> Sciurus carolinensis,2
+Vulpes vulpes -> Sciurus niger,2
+Vulpes vulpes -> Talpa europaea,2
+Vulpes vulpes -> Tamias striatus,2
+Vulpes vulpes crucigera -> Talpa europaea,2
+Xanthocephalus xanthocephalus -> Sympetrum corruptum,2
+Xenochrophis trianguligerus -> Polypedates leucomystax,2
+Xenoglossa pruinosa -> Trifolium pratense,2
+Xylena exsoleta -> Spartium junceum,2
+Xylocopa -> Acanthus mollis,2
+Xylocopa flavicollis -> Ozoroa obovata obovata,2
+Xylocopa nigrita -> Crotalaria capensis,2
+Xylocopa tabaniformis -> Salvia mexicana,2
+Xylocopa tabaniformis azteca -> Salvia mexicana,2
+Zadontomerus -> Geranium maculatum,2
+Zalophus californianus -> Octopus bimaculoides,2
+Zalophus californianus -> Oncorhynchus,2
+Zapornia flavirostra -> Hyperolius marmoratus verrucosus,2
+Zaprionus indianus -> Passiflora incarnata,2
+Zelus longipes -> Plecia nearctica,2
+Zelus longipes -> Toxomerus marginatus,2
+Zelus luridus -> Vostox brunneipennis,2
+Zerenopsis lepida -> Stangeria eriopus,2
+Zizeeria knysna -> Euphorbia graminea,2
+Zizeeria knysna -> Indigofera spicata,2
+Zizeeria knysna -> Polycarpon tetraphyllum,2
+Zizeeria knysna knysna -> Indigofera spicata,2
+Zizeeria knysna knysna -> Polycarpon tetraphyllum,2
+Zodarion rubidum -> Tetramorium immigrans,2
+Zonocerus elegans -> Solanum campylacanthum,2
+Zonocerus elegans elegans -> Solanum campylacanthum,2
+Zonotrichia albicollis -> Rhus typhina,2
+Zoropsis spinimana -> Phlogophora meticulosa,2
+Zosterops virens -> Ficus burkei,2
+Zosterops virens -> Trema orientale,2
+Zosterops virens virens -> Ficus burkei,2
+Zosterops virens virens -> Trema orientale,2
+Zygaena filipendulae -> Cirsium arvense,2
+Zygiella x-notata -> Polistes dominula,2
+Abantis paradisea -> Bridelia micrantha,2
+Abisares viridipennis -> Rhoicissus tomentosa,2
+Acalitus mallyi -> Vangueria infausta infausta,2
+Acanthacris ruficornis -> Halcyon albiventris albiventris,2
+Accipiter nisus -> Columba livia domestica,2
+Accipiter nisus -> Passer domesticus,2
+Accipiter nisus -> Streptopelia decaocto,2
+Accipiter nisus nisus -> Streptopelia decaocto,2
+Accipiter striatus -> Dryobates pubescens,2
+Aceria camdeboo -> Celtis africana,2
+Aceria lantanae -> Lantana camara,2
+Aceria negundi -> Acer negundo,2
+Aceria theospyri -> Diospyros virginiana,2
+Acridotheres tristis -> Chalcides ocellatus,2
+Acronyctodes cautama -> Buddleja cordata,2
+Aculus minutissimus -> Acer rubrum,2
+Adejeania vexatrix -> Ericameria nauseosa,2
+Adejeania vexatrix -> Rudbeckia laciniata,2
+Aerophilus nigripes -> Ericameria nauseosa,2
+Aerospiza tachiro -> Crinifer concolor,2
+Aethiopocassis vigintimaculata -> Thunbergia atriplicifolia,2
+Afrogegenes -> Chromolaena odorata,2
+Afrogegenes -> Lasiosiphon calocephalus,2
+Afromurzinia lutescens -> Tithonia rotundifolia,2
+Afrorhytida kraussi -> Afrorhytida kraussi kraussi,2
+Agapostemon virescens -> Cichorium intybus,2
+Agelaius phoeniceus -> Anax junius,2
+Agelaius phoeniceus -> Trachemys scripta,2
+Agelanthus subulatus -> Pterocarpus angolensis,2
+Agelanthus subulatus -> Pterocarpus rotundifolius rotundifolius,2
+Agelenopsis -> Actias luna,2
+Agelenopsis -> Lycorma delicatula,2
+Agkistrodon contortrix -> Glaucomys volans,2
+Agkistrodon contortrix -> Storeria occipitomaculata,2
+Agonoscelis versicoloratus -> Leonotis ocymifolia,2
+Agrilus planipennis -> Fraxinus americana,2
+Agromyza vockerothi -> Rubus phoenicolasius,2
+Alligator mississippiensis -> Apalone ferox,2
+Alligator mississippiensis -> Chelydra serpentina,2
+Alligator mississippiensis -> Fulica americana,2
+Alligator mississippiensis -> Lepisosteus platyrhincus,2
+Alligator mississippiensis -> Odocoileus virginianus,2
+Alligator mississippiensis -> Pterygoplichthys,2
+Alligator mississippiensis -> Spatula discors,2
+Allodus podophylli -> Podophyllum peltatum,2
+Allograpta obliqua -> Capsella bursa-pastoris,2
+Amauris albimaculata -> Volkameria glabra,2
+Amauris albimaculata albimaculata -> Volkameria glabra,2
+Amblyomma hebraeum -> Tragelaphus strepsiceros strepsiceros,2
+Amblyomma nuttalli -> Kinixys zombensis zombensis,2
+Amblyospiza albifrons -> Trema orientale,2
+Amblyospiza albifrons woltersi -> Trema orientale,2
+Amphibolips quercuspomiformis -> Quercus agrifolia,2
+Amyciaea forticeps -> Oecophylla smaragdina,2
+Anartia jatrophae -> Bacopa monnieri,2
+Anax junius -> Erythemis simplicicollis,2
+Anaxyrus boreas -> Pleocoma australis,2
+Anaxyrus boreas halophilus -> Pleocoma australis,2
+Andrena -> Asimina triloba,2
+Andrena bicolor -> Prunus cerasifera,2
+Andrenosoma hesperium -> Apis mellifera,2
+Andropadus importunus -> Ficus burtt-davyi,2
+Andropadus importunus importunus -> Ficus burtt-davyi,2
+Anguilla anguilla -> Egretta garzetta,2
+Anguilla anguilla -> Larus michahellis,2
+Anhinga anhinga -> Dorosoma cepedianum,2
+Anhinga anhinga -> Lepomis macrochirus,2
+Anhinga melanogaster -> Mystus mysticetus,2
+Anhinga novaehollandiae -> Cirripectes hutchinsi,2
+Anhinga novaehollandiae -> Perca fluviatilis,2
+Anolis carolinensis -> Erythemis simplicicollis,2
+Anolis sagrei -> Erythemis simplicicollis,2
+Anolis sagrei -> Hemidactylus mabouia,2
+Anoplolepis steingroeveri -> Microhodotermes viator,2
+Anoplolepis steingroeveri -> Pseudaspis cana,2
+Anthene amarah -> Catharanthus roseus,2
+Anthene amarah -> Justicia flava,2
+Anthene amarah amarah -> Catharanthus roseus,2
+Anthene amarah amarah -> Justicia flava,2
+Anthocharis cardamines -> Cardamine pratensis,2
+Anthopleura artemisia -> Hemigrapsus oregonensis,2
+Anthopleura elegantissima -> Hemigrapsus nudus,2
+Anthopleura elegantissima -> Velella velella,2
+Anthopleura sola -> Romaleon antennarium,2
+Anthus cinnamomeus -> Basiothia medea,2
+Anthus pratensis -> Ischnura elegans,2
+Anurida maritima -> Megalorchestia californiana,2
+Aphis -> Ipomoea,2
+Aphis nerii -> Araujia sericifera,2
+Aphis nerii -> Asclepias syriaca,2
+Aphis nerii -> Gomphocarpus physocarpus,2
+Aphis nerii -> Pachycarpus concolor arenicola,2
+Apiomerus californicus -> Apis mellifera,2
+Apis cerana -> Sphagneticola trilobata,2
+Apis florea -> Antigonon leptopus,2
+Apis mellifera -> Ageratina havanensis,2
+Apis mellifera -> Anchusa officinalis,2
+Apis mellifera -> Apiomerus californicus,2
+Apis mellifera -> Asclepias fascicularis,2
+Apis mellifera -> Asclepias tuberosa,2
+Apis mellifera -> Baccharis pilularis,2
+Apis mellifera -> Cakile maritima,2
+Apis mellifera -> Cirsium arvense,2
+Apis mellifera -> Cirsium horridulum,2
+Apis mellifera -> Datura wrightii,2
+Apis mellifera -> Eriogonum fasciculatum,2
+Apis mellifera -> Ficus sur,2
+Apis mellifera -> Hydrophyllum fendleri,2
+Apis mellifera -> Jacobaea vulgaris,2
+Apis mellifera -> Lonicera maackii,2
+Apis mellifera -> Ochna pulchra,2
+Apis mellifera -> Ozoroa obovata obovata,2
+Apis mellifera -> Paspalum notatum,2
+Apis mellifera -> Rubus odoratus,2
+Apis mellifera -> Salvia mellifera,2
+Apis mellifera -> Satureja montana,2
+Apis mellifera -> Senecio deltoideus,2
+Apis mellifera -> Taraxacum officinale,2
+Apis mellifera -> Toxicodendron pubescens,2
+Apis mellifera -> Trichostema lanceolatum,2
+Apis mellifera -> Trifolium repens,2
+Apis mellifera -> Turnera subulata,2
+Apis mellifera -> Viguiera dentata,2
+Apis mellifera scutellata -> Ochna pulchra,2
+Apis mellifera scutellata -> Ozoroa obovata obovata,2
+Apis mellifera scutellata -> Senecio deltoideus,2
+Appias epaphia -> Justicia flava,2
+Appias epaphia contracta -> Justicia flava,2
+Aquarius remigis -> Vespula alascensis,2
+Aquarius remigis -> Vespula pensylvanica,2
+Aramus guarauna -> Corbicula fluminea,2
+Araneus detrimentosus -> Microtheca ochroloma,2
+Araneus diadematus -> Camptogramma bilineata,2
+Araneus diadematus -> Harmonia axyridis,2
+Araneus diadematus -> Helophilus pendulus,2
+Archilochus colubris -> Impatiens capensis,2
+Ardea alba -> Ameiurus natalis,2
+Ardea alba -> Microtus californicus,2
+Ardea alba -> Opheodrys aestivus,2
+Ardea alba -> Pomoxis nigromaculatus,2
+Ardea alba -> Rutilus rutilus,2
+Ardea alba -> Sceloporus occidentalis,2
+Ardea brachyrhyncha -> Hylambates maculatus,2
+Ardea cinerea -> Anguilla anguilla,2
+Ardea cinerea -> Clarias gariepinus,2
+Ardea cinerea -> Cyprininae,2
+Ardea cinerea -> Emberiza schoeniclus,2
+Ardea cinerea -> Esox lucius,2
+Ardea cinerea -> Natrix tessellata,2
+Ardea cinerea -> Rana temporaria,2
+Ardea cinerea -> Xenopus laevis,2
+Ardea cinerea -> Xenopus muelleri,2
+Ardea cinerea cinerea -> Clarias gariepinus,2
+Ardea cinerea cinerea -> Xenopus laevis,2
+Ardea cocoi -> Pterygoplichthys ambrosettii,2
+Ardea goliath -> Clarias gariepinus,2
+Ardea herodias -> Ambystoma mavortium nebulosum,2
+Ardea herodias -> Ameiurus natalis,2
+Ardea herodias -> Amphiuma,2
+Ardea herodias -> Anguilla rostrata,2
+Ardea herodias -> Anoplarchus purpurescens,2
+Ardea herodias -> Apalone spinifera,2
+Ardea herodias -> Apodichthys flavidus,2
+Ardea herodias -> Campostoma oligolepis,2
+Ardea herodias -> Cebidichthys violaceus,2
+Ardea herodias -> Cyprinus carpio,2
+Ardea herodias -> Enophrys bison,2
+Ardea herodias -> Erimyzon sucetta,2
+Ardea herodias -> Lepomis,2
+Ardea herodias -> Lepomis gibbosus,2
+Ardea herodias -> Lepomis macrochirus,2
+Ardea herodias -> Lepomis microlophus,2
+Ardea herodias -> Leptocottus armatus,2
+Ardea herodias -> Liparis greeni,2
+Ardea herodias -> Lithobates catesbeianus,2
+Ardea herodias -> Lumpenus sagitta,2
+Ardea herodias -> Megascapheus bottae,2
+Ardea herodias -> Myoxocephalus polyacanthocephalus,2
+Ardea herodias -> Nerodia sipedon,2
+Ardea herodias -> Parophrys vetulus,2
+Ardea herodias -> Phanerodon vacca,2
+Ardea herodias -> Pholis laeta,2
+Ardea herodias -> Pomoxis nigromaculatus,2
+Ardea herodias -> Pterygoplichthys,2
+Ardea herodias -> Siren lacertina,2
+Ardea ibis -> Periplaneta americana,2
+Ardea intermedia -> Ophisternon bengalense,2
+Ardea melanocephala -> Philothamnus hoplogaster,2
+Ardeola ralloides -> Clarias gariepinus,2
+Arenaria interpres -> Dreissena bugensis,2
+Arenaria interpres -> Limulus polyphemus,2
+Arenaria melanocephala -> Emerita analoga,2
+Argiope appensa -> Neurothemis ramburii,2
+Argiope aurantia -> Erythrodiplax berenice,2
+Argiope aurantia -> Lycorma delicatula,2
+Argiope bruennichi -> Lixus juncii,2
+Argiope lobata -> Aricia cramera,2
+Argiope trifasciata -> Apis mellifera,2
+Argynnis cybele -> Cirsium vulgare,2
+Argynnis hesperis -> Arctium minus,2
+Argynnis hesperis hesperis -> Arctium minus,2
+Aricia agestis -> Pentaglottis sempervirens,2
+Ariolimax buttoni -> Caulorhiza umbonata,2
+Arthrophaga myriapodina -> Xystocheir dissecta,2
+Asclepias speciosa -> Papilio rutulus,2
+Aspidimorpha icterica -> Hewittia malabarica,2
+Aspidimorpha puncticosta -> Ipomoea pes-caprae,2
+Astragalus cicer -> Bombus appositus,2
+Astur cooperii -> Colaptes auratus,2
+Astur cooperii -> Colaptes auratus luteus,2
+Astur cooperii -> Haemorhous mexicanus,2
+Astur cooperii -> Patagioenas fasciata,2
+Astur cooperii -> Spatula cyanoptera,2
+Astur cooperii -> Streptopelia decaocto,2
+Astur cooperii -> Tamias striatus,2
+Astur cooperii -> Zenaida macroura,2
+Astur gentilis -> Fulica atra,2
+Astur gentilis gentilis -> Fulica atra,2
+Astur melanoleucus -> Ardea ibis,2
+Astur melanoleucus -> Columba livia domestica,2
+Astur melanoleucus -> Gallus gallus domesticus,2
+Astur melanoleucus melanoleucus -> Columba livia domestica,2
+Astur melanoleucus melanoleucus -> Gallus gallus domesticus,2
+Atrichiana jenisi -> Scutia myrtina,2
+Autographa gamma -> Brassica napus,2
+Autographa gamma -> Cirsium spinosissimum,2
+Azanus jesous -> Dichrostachys cinerea,2
+Badumna longinqua -> Zootermopsis angusticollis,2
+Baeoalitriozus diospyri -> Diospyros virginiana,2
+Basipta stolida -> Brachylaena discolor,2
+Belenois aurota -> Justicia flava,2
+Belenois aurota aurota -> Justicia flava,2
+Belenois creona -> Cynanchum viminale,2
+Belenois creona -> Justicia flava,2
+Belenois creona -> Solanum seaforthianum,2
+Belenois creona severina -> Chromolaena odorata,2
+Belenois creona severina -> Solanum seaforthianum,2
+Berenicornis comatus -> Ficus heteropleura,2
+Blepharucha zaide -> Passerina rigida,2
+Boaedon capensis -> Passer domesticus,2
+Boiga irregularis -> Orthonyx temminckii,2
+Boisea trivittata -> Leptoglossus occidentalis,2
+Bombomyia discoidea -> Tetraselago natalensis,2
+Bombus argillaceus -> Vicia grandiflora,2
+Bombus bifarius -> Geranium caespitosum,2
+Bombus bifarius -> Solidago velutina,2
+Bombus citrinus -> Hydrophyllum virginianum,2
+Bombus fervidus -> Trifolium pratense,2
+Bombus flavifrons -> Carduus nutans,2
+Bombus griseocollis -> Asclepias speciosa,2
+Bombus griseocollis -> Cirsium vulgare,2
+Bombus griseocollis -> Dalea purpurea,2
+Bombus griseocollis -> Melilotus albus,2
+Bombus griseocollis -> Teucrium canadense,2
+Bombus hortorum -> Prunus cerasifera,2
+Bombus huntii -> Anchusa officinalis,2
+Bombus huntii -> Ericameria nauseosa,2
+Bombus huntii -> Oreocarya virgata,2
+Bombus huntii -> Physocarpus monogynus,2
+Bombus hypnorum -> Campanula poscharskyana,2
+Bombus hypnorum -> Cirsium arvense,2
+Bombus hypnorum -> Crataegus monogyna,2
+Bombus impatiens -> Berberis thunbergii,2
+Bombus impatiens -> Eutrochium maculatum,2
+Bombus impatiens -> Melilotus officinalis,2
+Bombus insularis -> Penstemon virens,2
+Bombus kirbiellus -> Castilleja occidentalis,2
+Bombus lapidarius -> Centaurea nigra,2
+Bombus lapidarius -> Jacobaea vulgaris,2
+Bombus melanopygus -> Camassia,2
+Bombus melanopygus -> Rubus armeniacus,2
+Bombus mucidus -> Cirsium spinosissimum,2
+Bombus nevadensis -> Asclepias speciosa,2
+Bombus nevadensis -> Astragalus cicer,2
+Bombus nevadensis -> Penstemon virens,2
+Bombus occidentalis -> Rudbeckia laciniata,2
+Bombus pascuorum -> Lamium purpureum,2
+Bombus pascuorum -> Mentha aquatica,2
+Bombus pratorum -> Geranium dissectum,2
+Bombus pratorum -> Pentaglottis sempervirens,2
+Bombus rufocinctus -> Anchusa officinalis,2
+Bombus rufocinctus -> Gaillardia aristata,2
+Bombus terrestris -> Senecio otites,2
+Bombycilla cedrorum -> Rosa multiflora,2
+Bostra carnicolor -> Mimusops afra,2
+Bostra carnicolor -> Mimusops obovata,2
+Brachycerus labrusca -> Zephyranthes robusta,2
+Brachyleptura rubrica -> Daucus carota,2
+Brunneria borealis -> Dione vanillae,2
+Bucephala albeola -> Alitta williami,2
+Bucephala clangula -> Lophopanopeus bellus,2
+Bucephala clangula -> Oregonia gracilis,2
+Bucephala clangula -> Pholis ornata,2
+Bucorvus leadbeateri -> Tockus leucomelas,2
+Buteo jamaicensis -> Dipodomys ingens,2
+Buteo jamaicensis -> Microtus californicus,2
+Buteo jamaicensis -> Otospermophilus beecheyi,2
+Buteo jamaicensis -> Pituophis catenifer sayi,2
+Buteo jamaicensis -> Sciurus carolinensis,2
+Buteo jamaicensis -> Storeria dekayi,2
+Buteo jamaicensis -> Turdus migratorius,2
+Buteo lineatus -> Megascapheus bottae,2
+Buteo lineatus -> Ophisaurus ventralis,2
+Buteo lineatus -> Thamnophis elegans elegans,2
+Byblia anvatara -> Phoenix reclinata,2
+Bycanistes bucinator -> Ficus burtt-davyi,2
+Bycanistes bucinator -> Ficus bussei,2
+Bycanistes bucinator -> Ficus sycomorus sycomorus,2
+Caenocoris nerii -> Nerium oleander,2
+Calidris alba -> Emerita analoga,2
+Calidris alba -> Emerita talpoida,2
+Callistethus lubricus -> Melastoma malabathricum,2
+Calodiplosis parinarii -> Parinari curatellifolia,2
+Calotes versicolor -> Rhombodera basalis,2
+Camponotus chrysurus -> Insignorthezia insignis,2
+Camponotus cinctellus -> Mops pumilus,2
+Camponotus cruentatus -> Hipparchia semele,2
+Camponotus etiolipes -> Tiliacora funifera,2
+Camponotus maculatus -> Hemidactylus mabouia,2
+Camponotus pennsylvanicus -> Dolichovespula maculata,2
+Camponotus rubrithorax -> Aspidiotini,2
+Canis familiaris -> Odocoileus virginianus,2
+Canis latrans -> Castor canadensis,2
+Canis latrans -> Diospyros virginiana,2
+Canis latrans -> Odocoileus virginianus,2
+Capys antalus -> Eriosema psoraleoides,2
+Cardinalis cardinalis -> Armadillidium,2
+Cardinalis cardinalis -> Phaneroptera nana,2
+Carduelis carduelis -> Centaurea jacea,2
+Carduelis carduelis -> Centaurea nigra,2
+Carterocephalus skada -> Geranium viscosissimum,2
+Cassida granulicollis -> Brachylaena discolor,2
+Castor canadensis -> Fraxinus latifolia,2
+Castor canadensis -> Nuphar variegata,2
+Catacroptera cloanthe -> Tetraselago natalensis,2
+Cathartes aura -> Carcharodon carcharias,2
+Cathartes aura -> Oncorhynchus tshawytscha,2
+Cathartes aura -> Phoca vitulina richardii,2
+Cathartes aura -> Sciurus carolinensis,2
+Cathartes aura -> Triakis semifasciata,2
+Catharus guttatus -> Rosa multiflora,2
+Catopsilia florella -> Helichrysum kraussii,2
+Cauchas rufimitrella -> Cardamine pratensis,2
+Causus rhombeatus -> Sclerophrys capensis,2
+Cecidothyris pexa -> Terminalia sericea,2
+Celastrina echo -> Arctostaphylos uva-ursi,2
+Cenaeus pectoralis -> Solanum americanum,2
+Centruroides gracilis -> Indotyphlops braminus,2
+Cephalophorus natalensis -> Sclerocroton integerrimus,2
+Cephalophorus natalensis natalensis -> Sclerocroton integerrimus,2
+Cephonodes hylas -> Psorospermum febrifugum,2
+Cepphus columba -> Acanthogobius flavimanus,2
+Cepphus columba -> Artedius harringtoni,2
+Cepphus columba -> Pholis ornata,2
+Cepphus columba -> Triglops pingelii,2
+Ceramica pisi -> Narthecium ossifragum,2
+Cerataphis brasiliensis -> Strelitzia nicolai,2
+Ceratosolen capensis -> Ficus sur,2
+Cercopithecus mitis -> Aphloia theiformis,2
+Cercopithecus mitis -> Vachellia kosiensis,2
+Cercopithecus mitis erythrarchus -> Aphloia theiformis,2
+Cercopithecus mitis erythrarchus -> Vachellia kosiensis,2
+Cercospora atra -> Diospyros virginiana,2
+Ceriagrion coromandelianum -> Agriocnemis pygmaea,2
+Ceriagrion glabrum -> Diplacodes lefebvrii,2
+Ceroctis trifurca -> Cyperus niveus leucocephalus,2
+Cerurina marshalli -> Dovyalis zeyheri,2
+Chalcomitra senegalensis -> Aloe vanbalenii,2
+Chalcomitra senegalensis -> Erythrina afra,2
+Chalcomitra senegalensis gutturalis -> Aloe vanbalenii,2
+Chalcomitra senegalensis gutturalis -> Erythrina afra,2
+Charaxes saturnus -> Gymnosporia senegalensis,2
+Charaxes varanes -> Allophylus natalensis,2
+Charaxes varanes varanes -> Allophylus natalensis,2
+Charidotella succinea -> Ipomoea,2
+Chauliognathus pensylvanicus -> Solidago sempervirens,2
+Cheirolasia burkei -> Peltophorum africanum,2
+Chelydra serpentina -> Branta canadensis,2
+Chelydra serpentina -> Dorosoma cepedianum,2
+Chiastosternum unicolor -> Kraussia floribunda,2
+Chiastosternum unicolor -> Vepris lanceolata,2
+Chilocorus cacti -> Aspidiotini,2
+Chlorocebus pygerythrus -> Albizia forbesii,2
+Chlorocebus pygerythrus -> Ficus burtt-davyi,2
+Chlorocebus pygerythrus -> Ficus lutea,2
+Chlorocebus pygerythrus -> Strelitzia nicolai,2
+Chlorocebus pygerythrus pygerythrus -> Albizia forbesii,2
+Chlorocebus pygerythrus pygerythrus -> Ficus burtt-davyi,2
+Chlorocebus pygerythrus pygerythrus -> Ficus lutea,2
+Chlorocebus pygerythrus pygerythrus -> Strelitzia nicolai,2
+Chlorophorus varius -> Cirsium arvense,2
+Chlosyne damoetas -> Senecio fremontii,2
+Chondrodactylus laevigatus -> Cyligramma latona,2
+Chroicocephalus philadelphia -> Engraulis mordax,2
+Chroicocephalus ridibundus -> Gasterosteus aculeatus,2
+Chroicocephalus ridibundus -> Rutilus rutilus,2
+Chroicocephalus ridibundus -> Silurus glanis,2
+Chromolaena odorata -> Belenois creona severina,2
+Chromolaena odorata -> Delta fenestrale,2
+Chromolaena odorata -> Mylothris agathina agathina,2
+Chromolaena odorata -> Telchinia serena,2
+Chrysomya marginalis -> Equus quagga burchellii,2
+Chrysopelea paradisi -> Gekko monarchus,2
+Chrysopelea paradisi -> Hemidactylus frenatus,2
+Cigaritis ella -> Waltheria indica,2
+Cinnyricinclus leucogaster -> Ficus burkei,2
+Circaetus cinereus -> Bitis arietans,2
+Circaetus pectoralis -> Naja nivea,2
+Circus hudsonius -> Anser caerulescens,2
+Circus ranivorus -> Zapornia flavirostra,2
+Cirina forda -> Burkea africana,2
+Civettictis civetta -> Ficus bussei,2
+Clamator jacobinus -> Trichonephila antipodiana,2
+Clamator jacobinus pica -> Trichonephila antipodiana,2
+Coccopygia quartinia -> Melinis repens,2
+Coeligena torquata -> Kniphofia uvaria,2
+Coenonympha california -> Leucanthemum vulgare,2
+Coenosia tigrina -> Tachytrechus angustipennis,2
+Colias eurytheme -> Dipsacus fullonum,2
+Colias eurytheme -> Eutrochium fistulosum,2
+Colias eurytheme -> Nothoscordum bivalve,2
+Colias eurytheme -> Oenothera speciosa,2
+Colias eurytheme -> Rubus trivialis,2
+Colibri coruscans -> Kniphofia uvaria,2
+Colius striatus -> Ficus sur,2
+Colius striatus -> Ficus sycomorus sycomorus,2
+Colius striatus integralis -> Ficus sycomorus sycomorus,2
+Colotis annae -> Alternanthera pungens,2
+Colotis annae -> Kalanchoe rotundifolia,2
+Colotis annae annae -> Alternanthera pungens,2
+Colotis annae annae -> Kalanchoe rotundifolia,2
+Colotis euippe -> Alternanthera pungens,2
+Colotis euippe -> Justicia flava,2
+Colotis euippe omphale -> Alternanthera pungens,2
+Colotis euippe omphale -> Justicia flava,2
+Colotis evagore -> Ecballium elaterium,2
+Colotis evagore -> Heliotropium europaeum,2
+Coluber constrictor -> Osteopilus septentrionalis,2
+Coluber constrictor priapus -> Osteopilus septentrionalis,2
+Columba arquatrix -> Celtis africana,2
+Columba vitiensis -> Solanum mauritianum,2
+Columba vitiensis hypoenochroa -> Solanum mauritianum,2
+Coniodictyum chevalieri -> Ziziphus mucronata,2
+Copestylum satur -> Prunus virginiana,2
+Coragyps atratus -> Canis familiaris,2
+Coragyps atratus -> Cocos nucifera,2
+Coragyps atratus -> Dasypus mexicanus,2
+Coragyps atratus -> Felis catus,2
+Coragyps atratus -> Marmota monax,2
+Coragyps atratus -> Procyon lotor,2
+Coragyps atratus -> Sus scrofa,2
+Coragyps atratus brasiliensis -> Cocos nucifera,2
+Corgatha wojtusiaki -> Cardiospermum grandiflorum,2
+Corgatha wojtusiaki -> Sclerocroton integerrimus,2
+Cornu aspersum -> Stellaria media,2
+Corthylio calendula -> Toxicodendron radicans,2
+Corvus brachyrhynchos -> Cancer productus,2
+Corvus brachyrhynchos -> Forficula dentata,2
+Corvus brachyrhynchos -> Oncorhynchus keta,2
+Corvus brachyrhynchos -> Pholis laeta,2
+Corvus brachyrhynchos -> Pholis ornata,2
+Corvus brachyrhynchos -> Rattus rattus,2
+Corvus brachyrhynchos -> Sylvilagus floridanus,2
+Corvus corax -> Columba livia domestica,2
+Corvus corax -> Crotalus oreganus oreganus,2
+Corvus corax -> Oncorhynchus mykiss,2
+Corvus cornix -> Rattus norvegicus,2
+Corvus corone -> Meles meles,2
+Corvus corone -> Motacilla alba,2
+Corvus orru -> Columba livia,2
+Corythornis cristatus -> Pseudocrenilabrus philander,2
+Corythornis cristatus cristatus -> Pseudocrenilabrus philander,2
+Cotesia congregata -> Manduca sexta,2
+Cotesia glomerata -> Pieris brassicae,2
+Crematogaster scutellaris -> Hierodula transcaucasica,2
+Creobroter gemmatus -> Papilio protenor,2
+Crinifer concolor -> Adansonia digitata,2
+Crinifer concolor -> Cascabela thevetia,2
+Crinifer concolor -> Ficus bussei,2
+Crinifer concolor -> Senna singueana,2
+Crinifer concolor bechuanae -> Senna singueana,2
+Crithagra mozambica -> Ficus burkei,2
+Crithagra mozambica -> Ficus sycomorus sycomorus,2
+Crithagra mozambica -> Megathyrsus maximus,2
+Crithagra mozambica -> Tragus berteronianus,2
+Crithagra mozambica granti -> Megathyrsus maximus,2
+Crocodylus acutus -> Pterois volitans,2
+Crocodylus niloticus -> Clarias gariepinus,2
+Crocodylus niloticus -> Connochaetes taurinus mearnsi,2
+Crocodylus niloticus -> Kobus ellipsiprymnus ellipsiprymnus,2
+Crocodylus niloticus -> Papio ursinus griseipes,2
+Crocodylus niloticus cowiei -> Clarias gariepinus,2
+Crocodylus niloticus cowiei -> Kobus ellipsiprymnus ellipsiprymnus,2
+Crocodylus niloticus cowiei -> Papio ursinus griseipes,2
+Crocodylus palustris -> Macaca sinica,2
+Crocuta crocuta -> Hippopotamus amphibius,2
+Crocuta crocuta -> Sylvicapra grimmia,2
+Crotalus cerastes -> Uta stansburiana,2
+Crotalus oreganus -> Otospermophilus beecheyi,2
+Crotalus oreganus oreganus -> Otospermophilus beecheyi,2
+Cryptachaea veruculata -> Pantomorus cervinus,2
+Cubophis caymanus -> Osteopilus septentrionalis,2
+Cuculus clamosus -> Coelonia fulvinotata,2
+Culex territans -> Lithobates catesbeianus,2
+Cupido comyntas -> Trifolium repens,2
+Cuspicona simplex -> Solanum sisymbriifolium,2
+Cyaniris semiargus -> Astragalus syriacus,2
+Cyanomitra olivacea -> Hedychium gardnerianum,2
+Cyanomitra olivacea -> Strelitzia nicolai,2
+Cyanomitra olivacea sclateri -> Hedychium gardnerianum,2
+Cycloplasis panicifoliella -> Dichanthelium clandestinum,2
+Cycnia collaris -> Asclepias syriaca,2
+Cystotheca mexicana -> Quercus rugosa,2
+Dactylopius opuntiae -> Opuntia ficus-indica,2
+Danaus chrysippus -> Gomphocarpus physocarpus,2
+Danaus chrysippus -> Hoodia currorii lugardii,2
+Danaus chrysippus -> Tetraselago natalensis,2
+Danaus chrysippus -> Xysmalobium undulatum,2
+Danaus chrysippus orientis -> Gomphocarpus physocarpus,2
+Danaus chrysippus orientis -> Hoodia currorii lugardii,2
+Danaus chrysippus orientis -> Tetraselago natalensis,2
+Danaus chrysippus orientis -> Xysmalobium undulatum,2
+Danaus plexippus -> Asclepias curassavica,2
+Danaus plexippus -> Asclepias incarnata,2
+Danaus plexippus -> Asclepias syriaca,2
+Danaus plexippus -> Gomphocarpus fruticosus,2
+Danaus plexippus -> Nothoscordum bivalve,2
+Danaus plexippus -> Verbesina virginica,2
+Dasypus mexicanus -> Diospyros virginiana,2
+Dejeania bombylans -> Gymnosporia senegalensis,2
+Delta fenestrale -> Chromolaena odorata,2
+Dendroaspis polylepis -> Ploceus cucullatus,2
+Diabrotica undecimpunctata -> Symphyotrichum lanceolatum,2
+Diadophis punctatus -> Plethodon glutinosus,2
+Dichrostachys cinerea -> Azanus jesous,2
+Dicranocephalus schmitzi -> Euphorbia lignosa,2
+Dinocampus coccinellae -> Cheilomenes bidentata,2
+Dinocampus coccinellae -> Harmonia axyridis,2
+Dinocampus coccinellae -> Hippodamia variegata,2
+Dione vanillae -> Lantana strigocamara,2
+Dione vanillae -> Passiflora incarnata,2
+Dione vanillae -> Passiflora lutea,2
+Dione vanillae -> Passiflora tenuiloba,2
+Discurria insessa -> Egregia menziesii,2
+Dispholidus typus -> Bradypodion damaranum,2
+Dispholidus typus typus -> Bradypodion damaranum,2
+Dolba hyloeus -> Asimina triloba,2
+Doris montereyensis -> Halichondria panicea,2
+Dryobates pubescens -> Rhus typhina,2
+Dryobates pubescens medianus -> Rhus typhina,2
+Efferia aestuans -> Lycorma delicatula,2
+Efferia albibarbis -> Townsendia nigra,2
+Egretta caerulea -> Anax junius,2
+Egretta caerulea -> Clarias batrachus,2
+Egretta caerulea -> Lithobates grylio,2
+Egretta garzetta -> Anguilla anguilla,2
+Egretta garzetta -> Aphanius fasciatus,2
+Egretta garzetta -> Lampetra planeri,2
+Egybolis vaillantina -> Cynanchum ellipticum,2
+Egybolis vaillantina -> Deinbollia oblongifolia,2
+Eicochrysops messapus -> Thesium asterias,2
+Elanus leucurus -> Rattus rattus,2
+Elisolimax flavescens -> Barleria delagoensis,2
+Enhydra lutris -> Pugettia producta,2
+Enhydra lutris -> Urechis caupo,2
+Enhydra lutris nereis -> Pugettia producta,2
+Enhydra lutris nereis -> Urechis caupo,2
+Enicospilus glabratus -> Callosamia promethea,2
+Enoplognatha ovata -> Anthrenus verbasci,2
+Enoplognatha ovata -> Meconema meridionale,2
+Entypus unifasciatus -> Dolomedes albineus,2
+Epargyreus clarus -> Cephalanthus occidentalis,2
+Eratigena agrestis -> Forficula auricularia,2
+Erianthemum virescens -> Vitex payos,2
+Eriboea guderiana -> Citharexylum spinosum,2
+Erinaceus europaeus -> Rana temporaria,2
+Eriophyes inermae -> Sideroxylon inerme,2
+Eristalis anthophorina -> Claytonia perfoliata,2
+Eristalis pertinax -> Heracleum sphondylium,2
+Eristalis stipator -> Senecio atratus,2
+Eristalis tenax -> Ericameria nauseosa,2
+Eristalis tenax -> Rhodiola rosea,2
+Eristalis tenax -> Senecio atratus,2
+Erythemis simplicicollis -> Celithemis fasciata,2
+Erythemis simplicicollis -> Pachydiplax longipennis,2
+Erythemis simplicicollis -> Perithemis tenera,2
+Estigmene acrea -> Diospyros virginiana,2
+Estigmene acrea -> Oenothera speciosa,2
+Estrilda astrild -> Cyperus solidus,2
+Estrilda astrild tenebridorsa -> Cyperus solidus,2
+Euagoras plagiatus -> Nepita conferta,2
+Euchrysops malathana -> Sphenostylis angustifolia,2
+Eudocimus albus -> Siren nettingi,2
+Eumetopias jubatus -> Enteroctopus dofleini,2
+Euphagus cyanocephalus -> Trimerotropis pallidipennis,2
+Euphoria inda -> Carduus nutans,2
+Euproctis straminicolor -> Syzygium cordatum cordatum,2
+Euptoieta claudia -> Passiflora tenuiloba,2
+Eurema -> Malvastrum coromandelianum,2
+Eurema brigitta -> Tetraselago natalensis,2
+Eurema brigitta -> Tridax procumbens,2
+Eurema brigitta brigitta -> Tetraselago natalensis,2
+Eurema brigitta brigitta -> Tridax procumbens,2
+Eurema hecabe -> Tridax procumbens,2
+Eurema hecabe solifera -> Tridax procumbens,2
+Eurema lisa -> Calyptocarpus vialis,2
+Eurytides marcellus -> Asimina parviflora,2
+Eurytides marcellus -> Asimina triloba,2
+Euthyrhynchus floridanus -> Bombus impatiens,2
+Euthyrhynchus floridanus -> Xylocopa virginica,2
+Exobasidium rhododendri -> Rhododendron ferrugineum,2
+Exosoma lusitanicum -> Andryala integrifolia,2
+Eyralpenus diplosticta -> Allophylus natalensis,2
+Falco columbarius -> Sturnus vulgaris,2
+Falco columbarius -> Zonotrichia albicollis,2
+Falco naumanni -> Chalcides chalcides,2
+Falco naumanni -> Eirenis collaris,2
+Falco naumanni -> Saga pedo,2
+Falco peregrinus -> Charadrius vociferus,2
+Falco peregrinus -> Colaptes auratus,2
+Falco peregrinus -> Melospiza georgiana,2
+Falco peregrinus -> Tringa semipalmata,2
+Falco peregrinus anatum -> Colaptes auratus,2
+Falco sparverius -> Choeradodis rhombicollis,2
+Falco sparverius -> Setophaga americana,2
+Falco sparverius -> Setophaga coronata coronata,2
+Farancia abacura -> Amphiuma means,2
+Farancia abacura abacura -> Amphiuma means,2
+Felis catus -> Leiolepis belliana,2
+Felis catus -> Leptopelis natalensis,2
+Filistata insidiatrix -> Rhytideres plicatus,2
+Filistata insidiatrix -> Vespa orientalis,2
+Filodes costivitralis -> Thunbergia alata,2
+Freyeria trochylus -> Indigofera hendecaphylla,2
+Fulica americana -> Pontederia cordata,2
+Furia ithacensis -> Rhagio mystaceus,2
+Galerucella calmariensis -> Lythrum salicaria,2
+Gallinula chloropus -> Mesotriton alpestris,2
+Gallinula chloropus -> Nymphaea lotus,2
+Gallinula chloropus meridionalis -> Nymphaea lotus,2
+Gallirex porphyreolophus -> Citharexylum spinosum,2
+Gallirex porphyreolophus -> Ficus burkei,2
+Gallirex porphyreolophus -> Filicium decipiens,2
+Gallirex porphyreolophus -> Solanum chrysotrichum,2
+Gallirex porphyreolophus porphyreolophus -> Ficus burkei,2
+Gasteracantha cancriformis -> Prosapia bicincta,2
+Gavia immer -> Carcinus maenas,2
+Gavia immer -> Opsanus tau,2
+Gegenes letterstedti -> Distephanus angulifolius,2
+Gegenes letterstedti -> Malvastrum coromandelianum,2
+Gegenes letterstedti -> Stachytarpheta jamaicensis,2
+Geococcyx californianus -> Sphinx chersis,2
+Geranoaetus melanoleucus -> Sylvilagus andinus,2
+Geronticus eremita -> Podarcis siculus,2
+Giraffa giraffa -> Sclerocroton integerrimus,2
+Giraffa giraffa -> Syzygium cordatum cordatum,2
+Giraffa giraffa -> Vachellia tortilis,2
+Giraffa giraffa -> Ziziphus mucronata,2
+Giraffa giraffa giraffa -> Sclerocroton integerrimus,2
+Giraffa giraffa giraffa -> Syzygium cordatum cordatum,2
+Giraffa giraffa giraffa -> Vachellia tortilis,2
+Giraffa giraffa giraffa -> Ziziphus mucronata,2
+Globimetula mweroensis -> Populus deltoides,2
+Globimetula mweroensis -> Salix babylonica,2
+Globimetula mweroensis -> Vangueria vestita,2
+Golovinomyces -> Helminthotheca echioides,2
+Gonepteryx cleopatra -> Aphyllanthes monspeliensis,2
+Gonimbrasia zambesina -> Acokanthera oblongifolia,2
+Gopherus polyphemus -> Asimina pygmaea,2
+Graphium angolanus -> Annona senegalensis,2
+Graphium angolanus angolanus -> Annona senegalensis,2
+Graphium antheus -> Croton pseudopulchellus,2
+Graphosoma italicum -> Echinophora spinosa,2
+Graphosoma italicum italicum -> Echinophora spinosa,2
+Guttera edouardi -> Searsia nebulosa,2
+Guttera edouardi edouard -> Searsia nebulosa,2
+Gymnosporangium juniperi-virginianae -> Juniperus virginiana,2
+Gyps africanus -> Aepyceros melampus melampus,2
+Gyps africanus -> Crocuta crocuta,2
+Gyps africanus -> Syncerus caffer caffer,2
+Gyps fulvus -> Cervus elaphus,2
+Gyps rueppelli -> Syncerus caffer caffer,2
+Gyrinophilus porphyriticus -> Desmognathus monticola,2
+Halcyon albiventris -> Bradypodion damaranum,2
+Halcyon albiventris -> Gryllotalpa africana,2
+Halcyon albiventris -> Hyperolius marmoratus taeniatus,2
+Halcyon albiventris -> Hyperolius marmoratus verrucosus,2
+Halcyon albiventris -> Opisthacanthus capensis,2
+Halcyon albiventris -> Rhabdomys pumilio,2
+Halcyon albiventris -> Tetradactylus seps,2
+Halcyon albiventris albiventris -> Acanthacris ruficornis,2
+Halcyon albiventris albiventris -> Bradypodion damaranum,2
+Halcyon albiventris albiventris -> Gryllotalpa africana,2
+Halcyon albiventris albiventris -> Hyperolius marmoratus taeniatus,2
+Halcyon albiventris albiventris -> Hyperolius marmoratus verrucosus,2
+Halcyon albiventris albiventris -> Lygodactylus capensis,2
+Halcyon albiventris albiventris -> Opisthacanthus capensis,2
+Halcyon albiventris albiventris -> Rhabdomys pumilio,2
+Halcyon albiventris albiventris -> Tetradactylus seps,2
+Halcyon gularis -> Pelobatrachus stejnegeri,2
+Haliaeetus leucocephalus -> Aechmophorus occidentalis occidentalis,2
+Haliaeetus leucocephalus -> Corvus brachyrhynchos,2
+Haliaeetus leucocephalus -> Erimyzon sucetta,2
+Haliaeetus leucocephalus -> Lithobates catesbeianus,2
+Haliaeetus leucocephalus -> Merluccius productus,2
+Haliaeetus leucocephalus -> Oncorhynchus nerka,2
+Haliaeetus leucocephalus -> Pluvialis squatarola,2
+Haliaeetus leucocephalus -> Uria aalge,2
+Haliaeetus leucocephalus -> Urile pelagicus,2
+Halichoerus grypus -> Conger conger,2
+Halichoerus grypus atlantica -> Conger conger,2
+Halictus confusus -> Convolvulus arvensis,2
+Halysidota tessellaris -> Celtis occidentalis,2
+Halysidota tessellaris -> Fagus grandifolia,2
+Hedydipna collaris -> Erythrina lysistemon,2
